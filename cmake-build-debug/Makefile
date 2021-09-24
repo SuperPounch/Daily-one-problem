@@ -129,6 +129,54 @@ Daily_one_problem/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/build
 .PHONY : Daily_one_problem/fast
 
+LeetCode_326.o: LeetCode_326.cpp.o
+.PHONY : LeetCode_326.o
+
+# target to build an object file
+LeetCode_326.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode_326.cpp.o
+.PHONY : LeetCode_326.cpp.o
+
+LeetCode_326.i: LeetCode_326.cpp.i
+.PHONY : LeetCode_326.i
+
+# target to preprocess a source file
+LeetCode_326.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode_326.cpp.i
+.PHONY : LeetCode_326.cpp.i
+
+LeetCode_326.s: LeetCode_326.cpp.s
+.PHONY : LeetCode_326.s
+
+# target to generate assembly for a file
+LeetCode_326.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode_326.cpp.s
+.PHONY : LeetCode_326.cpp.s
+
+LeetCode_430.o: LeetCode_430.cpp.o
+.PHONY : LeetCode_430.o
+
+# target to build an object file
+LeetCode_430.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode_430.cpp.o
+.PHONY : LeetCode_430.cpp.o
+
+LeetCode_430.i: LeetCode_430.cpp.i
+.PHONY : LeetCode_430.i
+
+# target to preprocess a source file
+LeetCode_430.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode_430.cpp.i
+.PHONY : LeetCode_430.cpp.i
+
+LeetCode_430.s: LeetCode_430.cpp.s
+.PHONY : LeetCode_430.s
+
+# target to generate assembly for a file
+LeetCode_430.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode_430.cpp.s
+.PHONY : LeetCode_430.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -162,6 +210,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Daily_one_problem"
+	@echo "... LeetCode_326.o"
+	@echo "... LeetCode_326.i"
+	@echo "... LeetCode_326.s"
+	@echo "... LeetCode_430.o"
+	@echo "... LeetCode_430.i"
+	@echo "... LeetCode_430.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

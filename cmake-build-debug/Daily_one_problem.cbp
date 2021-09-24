@@ -78,6 +78,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/lx/CLionProjects/Daily one problem/LeetCode_326.cpp">
+			<Option target="Daily_one_problem"/>
+		</Unit>
+		<Unit filename="/Users/lx/CLionProjects/Daily one problem/LeetCode_326.h">
+			<Option target="Daily_one_problem"/>
+		</Unit>
+		<Unit filename="/Users/lx/CLionProjects/Daily one problem/LeetCode_430.cpp">
+			<Option target="Daily_one_problem"/>
+		</Unit>
+		<Unit filename="/Users/lx/CLionProjects/Daily one problem/LeetCode_430.h">
+			<Option target="Daily_one_problem"/>
+		</Unit>
 		<Unit filename="/Users/lx/CLionProjects/Daily one problem/main.cpp">
 			<Option target="Daily_one_problem"/>
 		</Unit>

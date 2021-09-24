@@ -79,17 +79,47 @@ CMakeFiles/Daily_one_problem.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/main.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/lx/CLionProjects/Daily one problem/main.cpp" -o CMakeFiles/Daily_one_problem.dir/main.cpp.s
 
+CMakeFiles/Daily_one_problem.dir/LeetCode_326.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
+CMakeFiles/Daily_one_problem.dir/LeetCode_326.cpp.o: ../LeetCode_326.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/lx/CLionProjects/Daily one problem/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Daily_one_problem.dir/LeetCode_326.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Daily_one_problem.dir/LeetCode_326.cpp.o -c "/Users/lx/CLionProjects/Daily one problem/LeetCode_326.cpp"
+
+CMakeFiles/Daily_one_problem.dir/LeetCode_326.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/LeetCode_326.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/lx/CLionProjects/Daily one problem/LeetCode_326.cpp" > CMakeFiles/Daily_one_problem.dir/LeetCode_326.cpp.i
+
+CMakeFiles/Daily_one_problem.dir/LeetCode_326.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/LeetCode_326.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/lx/CLionProjects/Daily one problem/LeetCode_326.cpp" -o CMakeFiles/Daily_one_problem.dir/LeetCode_326.cpp.s
+
+CMakeFiles/Daily_one_problem.dir/LeetCode_430.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
+CMakeFiles/Daily_one_problem.dir/LeetCode_430.cpp.o: ../LeetCode_430.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/lx/CLionProjects/Daily one problem/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Daily_one_problem.dir/LeetCode_430.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Daily_one_problem.dir/LeetCode_430.cpp.o -c "/Users/lx/CLionProjects/Daily one problem/LeetCode_430.cpp"
+
+CMakeFiles/Daily_one_problem.dir/LeetCode_430.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/LeetCode_430.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/lx/CLionProjects/Daily one problem/LeetCode_430.cpp" > CMakeFiles/Daily_one_problem.dir/LeetCode_430.cpp.i
+
+CMakeFiles/Daily_one_problem.dir/LeetCode_430.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/LeetCode_430.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/lx/CLionProjects/Daily one problem/LeetCode_430.cpp" -o CMakeFiles/Daily_one_problem.dir/LeetCode_430.cpp.s
+
 # Object files for target Daily_one_problem
 Daily_one_problem_OBJECTS = \
-"CMakeFiles/Daily_one_problem.dir/main.cpp.o"
+"CMakeFiles/Daily_one_problem.dir/main.cpp.o" \
+"CMakeFiles/Daily_one_problem.dir/LeetCode_326.cpp.o" \
+"CMakeFiles/Daily_one_problem.dir/LeetCode_430.cpp.o"
 
 # External object files for target Daily_one_problem
 Daily_one_problem_EXTERNAL_OBJECTS =
 
 Daily_one_problem: CMakeFiles/Daily_one_problem.dir/main.cpp.o
+Daily_one_problem: CMakeFiles/Daily_one_problem.dir/LeetCode_326.cpp.o
+Daily_one_problem: CMakeFiles/Daily_one_problem.dir/LeetCode_430.cpp.o
 Daily_one_problem: CMakeFiles/Daily_one_problem.dir/build.make
 Daily_one_problem: CMakeFiles/Daily_one_problem.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/lx/CLionProjects/Daily one problem/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Daily_one_problem"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/lx/CLionProjects/Daily one problem/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Daily_one_problem"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Daily_one_problem.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
