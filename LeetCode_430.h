@@ -17,7 +17,7 @@ public:
 class LeetCode_430 {
 public:
     Node *flatten(Node *head) {
-        function < Node * (Node *) > dfs = [&](Node *node) {
+       /* function < Node * (Node *) > dfs = [&](Node *node) {
             //cur 作 head
             Node *cur = node;
             //记录链表的最后一个节点
@@ -51,8 +51,8 @@ public:
                 cur = next;//进入下一步迭代
             }
             return last;
-        };
-        dfs(head);
+        };*/
+       // dfs(head);
         return head;
     }
 };
