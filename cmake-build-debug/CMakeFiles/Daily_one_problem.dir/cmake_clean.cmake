@@ -1,7 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Daily_one_problem.dir/LeetCode_326.cpp.o"
-  "CMakeFiles/Daily_one_problem.dir/LeetCode_430.cpp.o"
-  "CMakeFiles/Daily_one_problem.dir/main.cpp.o"
+  "CMakeFiles/Daily_one_problem.dir/PAT_B/B1004.cpp.o"
   "Daily_one_problem"
   "Daily_one_problem.pdb"
 )

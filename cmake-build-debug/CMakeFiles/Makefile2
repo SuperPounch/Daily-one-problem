@@ -81,12 +81,12 @@ clean: CMakeFiles/Daily_one_problem.dir/clean
 CMakeFiles/Daily_one_problem.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/lx/CLionProjects/Daily one problem/cmake-build-debug/CMakeFiles" --progress-num=1,2,3,4 "Built target Daily_one_problem"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/lx/CLionProjects/Daily one problem/cmake-build-debug/CMakeFiles" --progress-num=1,2 "Built target Daily_one_problem"
 .PHONY : CMakeFiles/Daily_one_problem.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Daily_one_problem.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/lx/CLionProjects/Daily one problem/cmake-build-debug/CMakeFiles" 4
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/lx/CLionProjects/Daily one problem/cmake-build-debug/CMakeFiles" 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Daily_one_problem.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/lx/CLionProjects/Daily one problem/cmake-build-debug/CMakeFiles" 0
 .PHONY : CMakeFiles/Daily_one_problem.dir/rule
