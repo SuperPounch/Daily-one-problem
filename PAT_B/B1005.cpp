@@ -8,7 +8,7 @@
 
 using namespace std;
 
-int arr[10000];
+int arr[10000];//record if be covered
 
 int main() {
     int k, n, flag = 0;//flag判断是否输出的是第一个
