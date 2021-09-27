@@ -1,8 +1,5 @@
 # Daily-one-problem
-每日一题
-
----
-
+___每日一题___
 _Training my ability about thinking and coding_
 
 ---
