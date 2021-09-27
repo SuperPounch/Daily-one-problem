@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/lx/CLionProjects/Daily one problem/PAT_B/B1004.cpp
+/Users/lx/CLionProjects/Daily one problem/PAT_B/B1005.cpp
 iostream
+-
+vector
+-
+algorithm
 -
 
