@@ -15,6 +15,5 @@ int main(){
         cout << n<<" ";
         count++;
     }
-//    cout << count;
     return 0;
 }
