@@ -15,7 +15,7 @@ bool issushu(int x) {
 };
 
 int main() {
-    int n, count=0;
+    int n, count = 0;
     cin >> n;
     for (int i = 3; i <= n && i + 2 <= n; i += 2) {
         if (issushu(i) && issushu(i + 2)) {

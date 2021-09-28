@@ -19,3 +19,22 @@ ___Record_B1006(15)___:
 - ***Switch(condition)***
   - condition>0为True
   - case下可以带任何循环
+  
+___Recode_B1007(20)___:
+- 通过内部函数`issushu`来判断素数，代码如下
+```c++
+bool issushu(int x) {
+    int k, i;
+    k = (int) sqrt((double) x);
+    for (i = 2; i <= k; ++i) {
+        if (x % i == 0)break;
+    }
+    if (i > k)
+        return true;
+    else 
+        return false;
+};
+
+```
+
+--- 
