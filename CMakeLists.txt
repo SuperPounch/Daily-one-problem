@@ -3,5 +3,4 @@ project(Daily_one_problem)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Daily_one_problem  PAT_B/B1007.cpp)
-#PAT_B/B1004.cpp PAT_B/B1005.cpp
+add_executable(Daily_one_problem  PAT_B/B1008.cpp)
