@@ -34,7 +34,5 @@ bool issushu(int x) {
     else 
         return false;
 };
-
 ```
-
 --- 
