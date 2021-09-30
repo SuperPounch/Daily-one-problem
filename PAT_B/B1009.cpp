@@ -5,7 +5,7 @@
 #include <stack>
 
 using namespace std;
-
+//说反话
 int main() {
     stack<string> v;
     string s;;
