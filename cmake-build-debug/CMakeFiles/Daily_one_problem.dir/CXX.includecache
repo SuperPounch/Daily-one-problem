@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/lx/CLionProjects/Daily one problem/PAT_B/B1008.cpp
+/Users/lx/CLionProjects/Daily one problem/PAT_B/B1009.cpp
 iostream
-/Users/lx/CLionProjects/Daily one problem/PAT_B/iostream
+-
+stack
+-
+string
+-
 

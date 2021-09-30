@@ -78,7 +78,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/lx/CLionProjects/Daily one problem/PAT_B/B1008.cpp">
+		<Unit filename="/Users/lx/CLionProjects/Daily one problem/PAT_B/B1009.cpp">
 			<Option target="Daily_one_problem"/>
 		</Unit>
 		<Unit filename="/Users/lx/CLionProjects/Daily one problem/CMakeLists.txt">
