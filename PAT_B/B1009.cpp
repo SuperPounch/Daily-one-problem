@@ -6,6 +6,7 @@
 
 using namespace std;
 //说反话123
+//为什么我测试的时候，会死循环
 int main() {
     stack<string> v;
     string s;;

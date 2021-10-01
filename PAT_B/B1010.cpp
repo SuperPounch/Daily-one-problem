@@ -3,6 +3,7 @@
 //
 #include <iostream>
 //一元多项式求导，输出他的非零项系数和指数
+//很简单
 using namespace std;
 
 int main() {
