@@ -69,3 +69,6 @@ ___Recode_B1013(20)___:
 - 再次用到前面的`issushu`函数来判断素数
 - 两层for循环，第一层先找出需要的素数，第二层输出即可
 ---
+`今天CLion中的编译器出了问题，因为删除了Xcode.app。
+后续解决问题花了很多时间，Xcode下回后只需要删除当前项目，重新git上clone就可以了。
+跟着网友建议，在host上增加了ipv4 rew.githubuserconnect.com,为了下homebrew，但是并没有成功，问题还是存在，host文件也没改回去，记录这个事情，防止忘记`
