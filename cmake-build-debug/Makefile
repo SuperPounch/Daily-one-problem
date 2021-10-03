@@ -57,10 +57,10 @@ RM = "/Users/lx/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/21
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/lx/CLionProjects/Daily one problem"
+CMAKE_SOURCE_DIR = /Users/lx/CLionProjects/Daily-one-problem
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/lx/CLionProjects/Daily one problem/cmake-build-debug"
+CMAKE_BINARY_DIR = /Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/lx/CLionProjects/Daily one problem/cmake-build-debug/CMakeFiles" "/Users/lx/CLionProjects/Daily one problem/cmake-build-debug//CMakeFiles/progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles /Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/lx/CLionProjects/Daily one problem/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -129,29 +129,29 @@ Daily_one_problem/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/build
 .PHONY : Daily_one_problem/fast
 
-PAT_B/B1012.o: PAT_B/B1012.cpp.o
-.PHONY : PAT_B/B1012.o
+PAT_B/B1013.o: PAT_B/B1013.cpp.o
+.PHONY : PAT_B/B1013.o
 
 # target to build an object file
-PAT_B/B1012.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_B/B1012.cpp.o
-.PHONY : PAT_B/B1012.cpp.o
+PAT_B/B1013.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_B/B1013.cpp.o
+.PHONY : PAT_B/B1013.cpp.o
 
-PAT_B/B1012.i: PAT_B/B1012.cpp.i
-.PHONY : PAT_B/B1012.i
+PAT_B/B1013.i: PAT_B/B1013.cpp.i
+.PHONY : PAT_B/B1013.i
 
 # target to preprocess a source file
-PAT_B/B1012.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_B/B1012.cpp.i
-.PHONY : PAT_B/B1012.cpp.i
+PAT_B/B1013.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_B/B1013.cpp.i
+.PHONY : PAT_B/B1013.cpp.i
 
-PAT_B/B1012.s: PAT_B/B1012.cpp.s
-.PHONY : PAT_B/B1012.s
+PAT_B/B1013.s: PAT_B/B1013.cpp.s
+.PHONY : PAT_B/B1013.s
 
 # target to generate assembly for a file
-PAT_B/B1012.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_B/B1012.cpp.s
-.PHONY : PAT_B/B1012.cpp.s
+PAT_B/B1013.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_B/B1013.cpp.s
+.PHONY : PAT_B/B1013.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Daily_one_problem"
-	@echo "... PAT_B/B1012.o"
-	@echo "... PAT_B/B1012.i"
-	@echo "... PAT_B/B1012.s"
+	@echo "... PAT_B/B1013.o"
+	@echo "... PAT_B/B1013.i"
+	@echo "... PAT_B/B1013.s"
 .PHONY : help
 
 

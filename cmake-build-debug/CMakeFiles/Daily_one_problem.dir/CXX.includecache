@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/lx/CLionProjects/Daily one problem/PAT_B/B1012.cpp
+/Users/lx/CLionProjects/Daily-one-problem/PAT_B/B1013.cpp
+cmath
+-
 iostream
-/Users/lx/CLionProjects/Daily one problem/PAT_B/iostream
+/Users/lx/CLionProjects/Daily-one-problem/PAT_B/iostream
 
