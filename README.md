@@ -77,3 +77,14 @@ ___Recode_B1014(20)___:
 - `string`直接获取一行字符串，可以通过下标对字符串遍历/比较等操作
 - `isdigit()`判断是否是数字
 - `isalpha()`判断是否是字母
+- ```c++
+  const char *day[7] = {"MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"};
+  string week[7] = {"MON ", "TUE ", "WED ", "THU ", "FRI ", "SAT ", "SUN "};
+  //两句是一样效果，第一句是通过指针+数组的方式来达到字符串数组的目的
+  ```
+- ```c++
+  printf("%02d:%02d", m, j);
+  //output:  14:03
+  //%02-->数字要达到2位，达不到的位用0填充
+```
+  
