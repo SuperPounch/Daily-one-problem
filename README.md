@@ -72,3 +72,8 @@ ___Recode_B1013(20)___:
 `今天CLion中的编译器出了问题，因为删除了Xcode.app。
 后续解决问题花了很多时间，Xcode下回后只需要删除当前项目，重新git上clone就可以了。
 跟着网友建议，在host上增加了ipv4 rew.githubuserconnect.com,为了下homebrew，但是并没有成功，问题还是存在，host文件也没改回去，记录这个事情，防止忘记`
+---
+___Recode_B1014(20)___:
+- `string`直接获取一行字符串，可以通过下标对字符串遍历/比较等操作
+- `isdigit()`判断是否是数字
+- `isalpha()`判断是否是字母

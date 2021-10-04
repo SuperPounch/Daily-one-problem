@@ -32,6 +32,8 @@ int main() {
         } else j++;
     }
     const char *day[7] = {"MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"};
+    //string week[7] = {"MON ", "TUE ", "WED ", "THU ", "FRI ", "SAT ", "SUN "};
+    //和上一句是一样效果，通过指针+数组的方式来达到字符串数组的目的
     int m = isdigit(x[1]) ? x[1] - '0' : x[1] - 'A' + 10;
     cout << day[x[0] - 'A'] << " ";
     printf("%02d:%02d", m, j);
