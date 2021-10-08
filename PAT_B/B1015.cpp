@@ -6,7 +6,8 @@
 #include "vector"
 
 using namespace std;
-
+//not finished
+//just understand vector
 int main() {
     /*int N, L, H;
     cin >> N >> L >> H;
