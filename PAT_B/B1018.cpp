@@ -33,6 +33,5 @@ int main() {
     char c[3] = {'B', 'C', 'J'};
     cout << c[jiamax] << " " << c[yimax] << endl;
     return 0;
-
 }
 
