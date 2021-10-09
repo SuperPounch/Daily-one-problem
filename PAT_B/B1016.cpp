@@ -7,7 +7,6 @@ using namespace std;
 int main(){
     long long int a,b;
     int da,db,suma=0,sumb=0;
-
     cin >> a>>da>>b>>db;
     while(a){
         if(a%10==da)suma=da+10*suma;
