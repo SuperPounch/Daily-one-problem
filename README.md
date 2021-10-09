@@ -107,3 +107,23 @@ ___Recode_B1015(25)___:
 
 ___
 
+
+___Recode_B1016(15)___:
+- different from github/PAT
+- ```c++
+  string a, b;
+  int da, db, pa = 0, pb = 0;
+  cin >> a >> da >> b >> db;
+  //她的处理方法：a[i]-'0',用的是字符串
+  for (int i = 0; i < a.length(); i++)
+  if (da == (a[i] - '0')) pa = pa * 10 + da;
+  for (int i = 0; i < b.length(); i++)
+  if (db == (b[i] - '0')) pb = pb * 10 + db;
+  cout << pa + pb;
+  //mine a%10直接算的
+  long long int a,b;
+  int da,db,suma=0,sumb=0;
+  cin >> a>>da>>b>>db;
+  while(a){if(a%10==da)suma=da+10*suma;a/=10;}
+  while(b){if(b%10==db )sumb=db+10*sumb;b/=10;}
+```
