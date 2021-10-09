@@ -22,8 +22,8 @@ ___Record_B1006(15)___:
 ---
 ___Recode_B1007(20)___:
 - 通过内部函数`issushu`来判断素数，代码如下
-```c++
-bool issushu(int x) {
+- ```c++
+  bool issushu(int x) {
     int k, i;
     k = (int) sqrt((double) x);
     for (i = 2; i <= k; ++i) {
@@ -33,8 +33,8 @@ bool issushu(int x) {
         return true;
     else 
         return false;
-};
-```
+  };
+  ```
 ---
 ___Recode_B1009(20)___:
 - ***Stack***(堆栈)支持的基本操作
@@ -82,13 +82,11 @@ ___Recode_B1014(20)___:
   string week[7] = {"MON ", "TUE ", "WED ", "THU ", "FRI ", "SAT ", "SUN "};
   //两句是一样效果，第一句是通过指针+数组的方式来达到字符串数组的目的
   ```
-  
 - ```c++
   printf("%02d:%02d", m, j);
   //output:  14:03
   //%02-->数字要达到2位，达不到的位用0填充
   ```
-  
 ___Recode_B1015(25)___:
 - ***Vector*** ～ B1005
 - ```c++
@@ -104,10 +102,7 @@ ___Recode_B1015(25)___:
   //为什么是v[0][0]?因为在下标为0的容器下只插入了两个元素
   // 所以只有一个下标为0,1的元素，从而变成类似二维矩阵的输出格式
   ```
-
 ___
-
-
 ___Recode_B1016(15)___:
 - different from github/PAT
 - ```c++
@@ -126,4 +121,14 @@ ___Recode_B1016(15)___:
   cin >> a>>da>>b>>db;
   while(a){if(a%10==da)suma=da+10*suma;a/=10;}
   while(b){if(b%10==db )sumb=db+10*sumb;b/=10;}
-```
+  ```
+---
+___Recode_B1017(20)___:
+- A除以B 问题
+- not finished
+- GitHub/PAT 用String字符来进行除法运算//还没有看完
+___
+___Recode_B1018(20)___:
+-  锤子剪刀布:用空间换时间？感觉都不占优势，对比PAT，可以再看下
+
+
