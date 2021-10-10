@@ -130,5 +130,31 @@ ___Recode_B1017(20)___:
 ___
 ___Recode_B1018(20)___:
 -  锤子剪刀布:用空间换时间？感觉都不占优势，对比PAT，可以再看下
-
+___
+___Recode_B1019(20)___:
+- ```c++
+  #include <iostream>
+  #include <algorithm>
+  using namespace std;
+  bool cmp(char a, char b) {return a > b;}
+  int main() {
+  string s;
+  cin >> s;
+  s.insert(0, 4 - s.length(), '0');//insert()在pos的位置插入n个c字符
+  do {
+  string a = s, b = s;
+  sort(a.begin(), a.end(), cmp);//降序
+  sort(b.begin(), b.end());//默认升序
+  //stoi(const string*),都是字符处理函数,把数字字符串转换成int类型
+  //atoi(const char*),需要c_str()把string转换成char类型
+  int result = stoi(a) - stoi(b);
+  s = to_string(result);//s 更新为计算结果，进入下一个迭代
+  //将带符号整数转换成对应的字符串，可参考C++的API
+  //https://www.apiref.com/cpp-zh/cpp/string/basic_string/to_string.html
+  s.insert(0, 4 - s.length(), '0');
+  cout << a << " - " << b << " = " << s << endl;
+  } while (s != "6174" && s != "0000");
+  return 0;
+  }```
+  ```
 
