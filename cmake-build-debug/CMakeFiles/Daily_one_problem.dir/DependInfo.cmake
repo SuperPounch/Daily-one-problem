@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/lx/CLionProjects/Daily-one-problem/PAT_B/B1018.cpp" "/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles/Daily_one_problem.dir/PAT_B/B1018.cpp.o"
+  "/Users/lx/CLionProjects/Daily-one-problem/PAT_B/B1019.cpp" "/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles/Daily_one_problem.dir/PAT_B/B1019.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
