@@ -2,14 +2,15 @@
 // Created by 李啸 on 10/12/21.
 //
 #include "iostream"
+
 using namespace std;
 
-int main(){
-    int a,b,d;
-    cin>>a>>b>>d;
-    int t=a+b;
-    if(t<=0){
-        cout<<0;
+int main() {
+    int a, b, d;
+    cin >> a >> b >> d;
+    int t = a + b;
+    if (t <= 0) {
+        cout << 0;
         return 0;
     }
     int s[100];

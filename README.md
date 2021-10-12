@@ -1,26 +1,31 @@
 # Daily-one-problem
+
 ___每日一题___<br>
 _Training my ability about thinking and coding_
 
 ---
 
 ___Record_B1005(25)___：
+
 - ***Vector***（向量）
-  - 是一个封装了动态大小数组的顺序容器，可以理解为vector是一个能够存放任意类型的动态数组；
-  - 创建一个vector动态数组： `vector<Type> name(动态数量)`
-  - vector有`vector.begin()`:  给出第一个元素的指针；`vector.end()`:给出最后一个元素的下一个位置的指针；  
+    - 是一个封装了动态大小数组的顺序容器，可以理解为vector是一个能够存放任意类型的动态数组；
+    - 创建一个vector动态数组： `vector<Type> name(动态数量)`
+    - vector有`vector.begin()`:  给出第一个元素的指针；`vector.end()`:给出最后一个元素的下一个位置的指针；
 - ***Sort*** (排序函数)
-  -  sort(first,last)---默认按升序
-  -  如果降序，可以通过reverse反转，也可以如下：`sort(first,last,greater<Type>())`即可
-    
+    - sort(first,last)---默认按升序
+    - 如果降序，可以通过reverse反转，也可以如下：`sort(first,last,greater<Type>())`即可
+
 ---
 
 ___Record_B1006(15)___:
+
 - ***Switch(condition)***
-  - condition>0为True
-  - case下可以带任何循环
+    - condition>0为True
+    - case下可以带任何循环
+
 ---
 ___Recode_B1007(20)___:
+
 - 通过内部函数`issushu`来判断素数，代码如下
 - ```c++
   bool issushu(int x) {
@@ -35,14 +40,16 @@ ___Recode_B1007(20)___:
         return false;
   };
   ```
+
 ---
 ___Recode_B1009(20)___:
+
 - ***Stack***(堆栈)支持的基本操作
-  - 入栈：如`s.push(x)`; 
-  - 出栈:如 `s.pop()`.注意：出栈操作只是删除栈顶的元素，并不返回该元素。 
-  - 访问栈顶：如`s.top()`; 
-  - 判断栈空：如`s.empty()`.当栈空时返回true。 
-  - 访问栈中的元素个数，如`s.size()`;
+    - 入栈：如`s.push(x)`;
+    - 出栈:如 `s.pop()`.注意：出栈操作只是删除栈顶的元素，并不返回该元素。
+    - 访问栈顶：如`s.top()`;
+    - 判断栈空：如`s.empty()`.当栈空时返回true。
+    - 访问栈中的元素个数，如`s.size()`;
 - ***String***
 - `strcpy(s1, s2)` 复制字符串 s2 到字符串 s1。
 - `strcat(s1, s2)` 连接字符串 s2 到字符串 s1 的末尾。连接字符串也可以用 + 号，例如:
@@ -55,25 +62,31 @@ ___Recode_B1009(20)___:
 - `strcmp(s1, s2)` 如果 s1 和 s2 是相同的，则返回 0；如果 s1<s2 则返回值小于 0；如果 s1>s2 则返回值大于 0。
 - `strchr(s1, ch)` 返回一个指针，指向字符串 s1 中字符 ch 的第一次出现的位置。
 - `strstr(s1, s2)` 返回一个指针，指向字符串 s1 中字符串 s2 的第一次出现的位置
+
 ---
 ___Recode_B1010-1011(25_15)___:
+
 - 两题都是挺简单的
 - 对于区间[-2^31,2^31],需要long long int
 - 注意cin的数据的范围，做好if判断
+
 ---
 ___Recode_B1012(20)___:
+
 - `switch`来分类
 - b[]来记录是否存在，其中b[0]一开始放的不对，导致出问题，要和数组a同步更新
+
 ---
 ___Recode_B1013(20)___:
+
 - 再次用到前面的`issushu`函数来判断素数
 - 两层for循环，第一层先找出需要的素数，第二层输出即可
+
 ---
-`今天CLion中的编译器出了问题，因为删除了Xcode.app。
-后续解决问题花了很多时间，Xcode下回后只需要删除当前项目，重新git上clone就可以了。
-跟着网友建议，在host上增加了ipv4 rew.githubuserconnect.com,为了下homebrew，但是并没有成功，问题还是存在，host文件也没改回去，记录这个事情，防止忘记`
+`今天CLion中的编译器出了问题，因为删除了Xcode.app。 后续解决问题花了很多时间，Xcode下回后只需要删除当前项目，重新git上clone就可以了。 跟着网友建议，在host上增加了ipv4 rew.githubuserconnect.com,为了下homebrew，但是并没有成功，问题还是存在，host文件也没改回去，记录这个事情，防止忘记`
 ---
 ___Recode_B1014(20)___:
+
 - `string`直接获取一行字符串，可以通过下标对字符串遍历/比较等操作
 - `isdigit()`判断是否是数字
 - `isalpha()`判断是否是字母
@@ -87,7 +100,9 @@ ___Recode_B1014(20)___:
   //output:  14:03
   //%02-->数字要达到2位，达不到的位用0填充
   ```
+
 ___Recode_B1015(25)___:
+
 - ***Vector*** ～ B1005
 - ```c++
   vector<int> v[3];
@@ -102,8 +117,10 @@ ___Recode_B1015(25)___:
   //为什么是v[0][0]?因为在下标为0的容器下只插入了两个元素
   // 所以只有一个下标为0,1的元素，从而变成类似二维矩阵的输出格式
   ```
+
 ___
 ___Recode_B1016(15)___:
+
 - different from github/PAT
 - ```c++
   string a, b;
@@ -122,16 +139,22 @@ ___Recode_B1016(15)___:
   while(a){if(a%10==da)suma=da+10*suma;a/=10;}
   while(b){if(b%10==db )sumb=db+10*sumb;b/=10;}
   ```
+
 ---
 ___Recode_B1017(20)___:
+
 - A除以B 问题
 - not finished
 - GitHub/PAT 用String字符来进行除法运算//还没有看完
+
 ___
 ___Recode_B1018(20)___:
--  锤子剪刀布:用空间换时间？感觉都不占优势，对比PAT，可以再看下
+
+- 锤子剪刀布:用空间换时间？感觉都不占优势，对比PAT，可以再看下
+
 ___
 ___Recode_B1019(20)___:
+
 - ```c++
   #include <iostream>
   #include <algorithm>
@@ -155,6 +178,50 @@ ___Recode_B1019(20)___:
   cout << a << " - " << b << " = " << s << endl;
   } while (s != "6174" && s != "0000");
   return 0;
-  }```
+  }
   ```
 
+---
+___Recode_B1020(25):___
+
+- 逻辑没问题，但始终有一个错误，查不到测试用例，不清楚哪里有问题
+- PAT解答如下
+- ```c++
+  //创建mooncake类
+  struct mooncake{
+    float mount, price, unit;
+  };
+  //用于升序排序
+  int cmp(mooncake a, mooncake b) {
+    return a.unit > b.unit;
+  }
+  int main() {
+    int n, need;
+    cin >> n >> need;
+    vector<mooncake> a(n);
+    //vector容器经常使用到
+    for (int i = 0; i < n; i++) scanf("%f", &a[i].mount);
+    for (int i = 0; i < n; i++) scanf("%f", &a[i].price);
+    for (int i = 0; i < n; i++) a[i].unit = a[i].price / a[i].mount;
+    sort(a.begin(), a.end(), cmp);//降序
+    float result = 0.0;
+    for (int i = 0; i < n; i++) {
+      if (a[i].mount <= need) {
+        result = result + a[i].price;
+      } 
+      else {
+        result = result + a[i].unit * need;
+        break;
+      }
+      need = need - a[i].mount;
+    }
+    printf("%.2f",result);
+    return 0;
+  }
+  ```
+---
+___Recode_B1021(15):___
+- 在对数组使用的过程中，应该多注意是否需要初始化为0，部分题目编译与CLion不一样
+---
+___Recode_B1022(20):___
+- 加法转换成D进制，直接用数组处理，注意存储单元的大小控制；
