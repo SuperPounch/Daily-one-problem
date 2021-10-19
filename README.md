@@ -239,3 +239,28 @@ ___Recode_B1024(20):___
   - 子串是，在字符位置pos开始，跨越len个字符（或直到字符串的结尾，以先到者为准）对象的部分。pos+len-1=末尾位置
 - `abs(n)`取绝对值
 ___
+___Recode_B1025(25):___
+- `reverse()`逆序(反转)常用于数组、字符串、容器等，属于C++等新增函数
+  - ```c++
+      #include<algorithm>
+      //交换vector容器中元素的顺序
+      vector<int> v = {5,4,3,2,1};
+      reverse(v.begin(),v.end());//v的值为1,2,3,4,5
+      //交换string类的字符串
+      string str="www.mathor.top";
+      reverse(str.begin(),str.end());//str结果为pot.rohtam.wwww
+      //函数原型，函数内部调用iter_swap命令来交换元素位置
+      template <class BidirectionalIterator>
+      void reverse (BidirectionalIterator first, BidirectionalIterator last)
+      {
+          while ((first!=last)&&(first!=--last))
+          {
+              std::iter_swap (first,last);
+              ++first;
+          }
+      }
+    ```
+- 答案妙在：data、next、list数组的下标是当前结点的地址；再用list数组串成链式结构
+- 后续通过判断条件`i < (sum - sum % k)`，用`reverse()`反转数组；再用一层for循环输出结果；
+---
+___Recode_B1026(15):___
