@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/lx/CLionProjects/Daily-one-problem/PAT_B/B1024.cpp
+/Users/lx/CLionProjects/Daily-one-problem/PAT_B/B1029.cpp
 iostream
+-
+bitset
+-
+string
 -
 
