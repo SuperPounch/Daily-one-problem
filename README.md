@@ -265,10 +265,29 @@ ___Recode_B1025(25):___
 ---
 ___Recode_B1026(15):___
 - 程序运行时间
+- 对于second四舍五入的操作，先有`+50`的操作，就属于四舍五入的操作
 ---
 ___Recode_B1027(20):___
+- 打印沙漏
+- 数学规律上找平均数，来找出row
+- 数学规律应该输出每行几个"符号"
 ___
 ___Recode_B1028(20):___
+- 人口普查
+- 简单的用字符串来比较年龄大小
 ___
 ___Recode_B1029(20):___
+- `string.find(string[])`
+  - find()函数用于找到字符串里是否有字符string[]
+- `string::npos`
+  - npos可以表示string的结束位子，是string::type_size 类型的，也就是find（）返回的类型。find函数在找不到指定值得情况下会返回string::npos
+  ```c++
+     //如果没有，ans里也没有，就加进ans里
+     if (s2.find(s1[i]) == string::npos && ans.find(toupper(s1[i])) == string::npos)
+         ans += toupper(s1[i]);//转换成大写
+  ```
+- `toupper(s1[i])`———将字符变成大写字符
 ___
+___Recode_B1030(25):___
+- 完美数列
+- 
