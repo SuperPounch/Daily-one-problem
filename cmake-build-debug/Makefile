@@ -129,29 +129,29 @@ Daily_one_problem/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/build
 .PHONY : Daily_one_problem/fast
 
-PAT_B/B1031.o: PAT_B/B1031.cpp.o
-.PHONY : PAT_B/B1031.o
+PAT_B/B1032.o: PAT_B/B1032.cpp.o
+.PHONY : PAT_B/B1032.o
 
 # target to build an object file
-PAT_B/B1031.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_B/B1031.cpp.o
-.PHONY : PAT_B/B1031.cpp.o
+PAT_B/B1032.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_B/B1032.cpp.o
+.PHONY : PAT_B/B1032.cpp.o
 
-PAT_B/B1031.i: PAT_B/B1031.cpp.i
-.PHONY : PAT_B/B1031.i
+PAT_B/B1032.i: PAT_B/B1032.cpp.i
+.PHONY : PAT_B/B1032.i
 
 # target to preprocess a source file
-PAT_B/B1031.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_B/B1031.cpp.i
-.PHONY : PAT_B/B1031.cpp.i
+PAT_B/B1032.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_B/B1032.cpp.i
+.PHONY : PAT_B/B1032.cpp.i
 
-PAT_B/B1031.s: PAT_B/B1031.cpp.s
-.PHONY : PAT_B/B1031.s
+PAT_B/B1032.s: PAT_B/B1032.cpp.s
+.PHONY : PAT_B/B1032.s
 
 # target to generate assembly for a file
-PAT_B/B1031.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_B/B1031.cpp.s
-.PHONY : PAT_B/B1031.cpp.s
+PAT_B/B1032.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_B/B1032.cpp.s
+.PHONY : PAT_B/B1032.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Daily_one_problem"
-	@echo "... PAT_B/B1031.o"
-	@echo "... PAT_B/B1031.i"
-	@echo "... PAT_B/B1031.s"
+	@echo "... PAT_B/B1032.o"
+	@echo "... PAT_B/B1032.i"
+	@echo "... PAT_B/B1032.s"
 .PHONY : help
 
 
