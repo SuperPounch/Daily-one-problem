@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Daily_one_problem.dir/PAT_B/B1032.cpp.o"
+  "CMakeFiles/Daily_one_problem.dir/PAT_B/B1046.cpp.o"
+  "CMakeFiles/Daily_one_problem.dir/PAT_B/B1046.cpp.o.d"
   "Daily_one_problem"
   "Daily_one_problem.pdb"
 )

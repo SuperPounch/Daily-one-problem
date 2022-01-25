@@ -4,8 +4,13 @@
 #include "iostream"
 #include "vector"
 using namespace std;
-
+#include <iostream>
+using namespace std;
 int main() {
+    cout << __VERSION__ << endl;
+    return 0;
+}
+/*int main() {
     int N;
     cin >> N;
     vector<int> a(N + 1);
@@ -23,5 +28,5 @@ int main() {
     }
     cout << t << " " << max;
     return 0;
-}
+}*/
 
