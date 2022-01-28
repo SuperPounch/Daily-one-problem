@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/Users/lx/CLionProjects/Daily-one-problem/PAT_A/A1042.cpp" "CMakeFiles/Daily_one_problem.dir/PAT_A/A1042.cpp.o" "gcc" "CMakeFiles/Daily_one_problem.dir/PAT_A/A1042.cpp.o.d"
   "/Users/lx/CLionProjects/Daily-one-problem/PAT_B/B1046.cpp" "CMakeFiles/Daily_one_problem.dir/PAT_B/B1046.cpp.o" "gcc" "CMakeFiles/Daily_one_problem.dir/PAT_B/B1046.cpp.o.d"
   )
 
