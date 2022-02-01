@@ -153,6 +153,30 @@ PAT_A/A1042.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_A/A1042.cpp.s
 .PHONY : PAT_A/A1042.cpp.s
 
+PAT_A/A1046.o: PAT_A/A1046.cpp.o
+.PHONY : PAT_A/A1046.o
+
+# target to build an object file
+PAT_A/A1046.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_A/A1046.cpp.o
+.PHONY : PAT_A/A1046.cpp.o
+
+PAT_A/A1046.i: PAT_A/A1046.cpp.i
+.PHONY : PAT_A/A1046.i
+
+# target to preprocess a source file
+PAT_A/A1046.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_A/A1046.cpp.i
+.PHONY : PAT_A/A1046.cpp.i
+
+PAT_A/A1046.s: PAT_A/A1046.cpp.s
+.PHONY : PAT_A/A1046.s
+
+# target to generate assembly for a file
+PAT_A/A1046.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_A/A1046.cpp.s
+.PHONY : PAT_A/A1046.cpp.s
+
 PAT_B/B1046.o: PAT_B/B1046.cpp.o
 .PHONY : PAT_B/B1046.o
 
@@ -189,6 +213,9 @@ help:
 	@echo "... PAT_A/A1042.o"
 	@echo "... PAT_A/A1042.i"
 	@echo "... PAT_A/A1042.s"
+	@echo "... PAT_A/A1046.o"
+	@echo "... PAT_A/A1046.i"
+	@echo "... PAT_A/A1046.s"
 	@echo "... PAT_B/B1046.o"
 	@echo "... PAT_B/B1046.i"
 	@echo "... PAT_B/B1046.s"
