@@ -129,6 +129,30 @@ Daily_one_problem/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/build
 .PHONY : Daily_one_problem/fast
 
+PAT_A/A1002.o: PAT_A/A1002.cpp.o
+.PHONY : PAT_A/A1002.o
+
+# target to build an object file
+PAT_A/A1002.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_A/A1002.cpp.o
+.PHONY : PAT_A/A1002.cpp.o
+
+PAT_A/A1002.i: PAT_A/A1002.cpp.i
+.PHONY : PAT_A/A1002.i
+
+# target to preprocess a source file
+PAT_A/A1002.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_A/A1002.cpp.i
+.PHONY : PAT_A/A1002.cpp.i
+
+PAT_A/A1002.s: PAT_A/A1002.cpp.s
+.PHONY : PAT_A/A1002.s
+
+# target to generate assembly for a file
+PAT_A/A1002.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_A/A1002.cpp.s
+.PHONY : PAT_A/A1002.cpp.s
+
 PAT_A/A1042.o: PAT_A/A1042.cpp.o
 .PHONY : PAT_A/A1042.o
 
@@ -234,6 +258,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Daily_one_problem"
+	@echo "... PAT_A/A1002.o"
+	@echo "... PAT_A/A1002.i"
+	@echo "... PAT_A/A1002.s"
 	@echo "... PAT_A/A1042.o"
 	@echo "... PAT_A/A1042.i"
 	@echo "... PAT_A/A1042.s"

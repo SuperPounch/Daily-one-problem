@@ -78,6 +78,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/PAT_A/A1002.cpp">
+			<Option target="Daily_one_problem"/>
+		</Unit>
 		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/PAT_A/A1042.cpp">
 			<Option target="Daily_one_problem"/>
 		</Unit>
