@@ -129,125 +129,29 @@ Daily_one_problem/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/build
 .PHONY : Daily_one_problem/fast
 
-PAT_A/A1002.o: PAT_A/A1002.cpp.o
-.PHONY : PAT_A/A1002.o
+LeetCode/Easy_1380.o: LeetCode/Easy_1380.cpp.o
+.PHONY : LeetCode/Easy_1380.o
 
 # target to build an object file
-PAT_A/A1002.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_A/A1002.cpp.o
-.PHONY : PAT_A/A1002.cpp.o
+LeetCode/Easy_1380.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy_1380.cpp.o
+.PHONY : LeetCode/Easy_1380.cpp.o
 
-PAT_A/A1002.i: PAT_A/A1002.cpp.i
-.PHONY : PAT_A/A1002.i
-
-# target to preprocess a source file
-PAT_A/A1002.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_A/A1002.cpp.i
-.PHONY : PAT_A/A1002.cpp.i
-
-PAT_A/A1002.s: PAT_A/A1002.cpp.s
-.PHONY : PAT_A/A1002.s
-
-# target to generate assembly for a file
-PAT_A/A1002.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_A/A1002.cpp.s
-.PHONY : PAT_A/A1002.cpp.s
-
-PAT_A/A1042.o: PAT_A/A1042.cpp.o
-.PHONY : PAT_A/A1042.o
-
-# target to build an object file
-PAT_A/A1042.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_A/A1042.cpp.o
-.PHONY : PAT_A/A1042.cpp.o
-
-PAT_A/A1042.i: PAT_A/A1042.cpp.i
-.PHONY : PAT_A/A1042.i
+LeetCode/Easy_1380.i: LeetCode/Easy_1380.cpp.i
+.PHONY : LeetCode/Easy_1380.i
 
 # target to preprocess a source file
-PAT_A/A1042.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_A/A1042.cpp.i
-.PHONY : PAT_A/A1042.cpp.i
+LeetCode/Easy_1380.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy_1380.cpp.i
+.PHONY : LeetCode/Easy_1380.cpp.i
 
-PAT_A/A1042.s: PAT_A/A1042.cpp.s
-.PHONY : PAT_A/A1042.s
-
-# target to generate assembly for a file
-PAT_A/A1042.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_A/A1042.cpp.s
-.PHONY : PAT_A/A1042.cpp.s
-
-PAT_A/A1046.o: PAT_A/A1046.cpp.o
-.PHONY : PAT_A/A1046.o
-
-# target to build an object file
-PAT_A/A1046.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_A/A1046.cpp.o
-.PHONY : PAT_A/A1046.cpp.o
-
-PAT_A/A1046.i: PAT_A/A1046.cpp.i
-.PHONY : PAT_A/A1046.i
-
-# target to preprocess a source file
-PAT_A/A1046.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_A/A1046.cpp.i
-.PHONY : PAT_A/A1046.cpp.i
-
-PAT_A/A1046.s: PAT_A/A1046.cpp.s
-.PHONY : PAT_A/A1046.s
+LeetCode/Easy_1380.s: LeetCode/Easy_1380.cpp.s
+.PHONY : LeetCode/Easy_1380.s
 
 # target to generate assembly for a file
-PAT_A/A1046.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_A/A1046.cpp.s
-.PHONY : PAT_A/A1046.cpp.s
-
-PAT_A/A1065.o: PAT_A/A1065.cpp.o
-.PHONY : PAT_A/A1065.o
-
-# target to build an object file
-PAT_A/A1065.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_A/A1065.cpp.o
-.PHONY : PAT_A/A1065.cpp.o
-
-PAT_A/A1065.i: PAT_A/A1065.cpp.i
-.PHONY : PAT_A/A1065.i
-
-# target to preprocess a source file
-PAT_A/A1065.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_A/A1065.cpp.i
-.PHONY : PAT_A/A1065.cpp.i
-
-PAT_A/A1065.s: PAT_A/A1065.cpp.s
-.PHONY : PAT_A/A1065.s
-
-# target to generate assembly for a file
-PAT_A/A1065.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_A/A1065.cpp.s
-.PHONY : PAT_A/A1065.cpp.s
-
-PAT_B/B1046.o: PAT_B/B1046.cpp.o
-.PHONY : PAT_B/B1046.o
-
-# target to build an object file
-PAT_B/B1046.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_B/B1046.cpp.o
-.PHONY : PAT_B/B1046.cpp.o
-
-PAT_B/B1046.i: PAT_B/B1046.cpp.i
-.PHONY : PAT_B/B1046.i
-
-# target to preprocess a source file
-PAT_B/B1046.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_B/B1046.cpp.i
-.PHONY : PAT_B/B1046.cpp.i
-
-PAT_B/B1046.s: PAT_B/B1046.cpp.s
-.PHONY : PAT_B/B1046.s
-
-# target to generate assembly for a file
-PAT_B/B1046.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/PAT_B/B1046.cpp.s
-.PHONY : PAT_B/B1046.cpp.s
+LeetCode/Easy_1380.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy_1380.cpp.s
+.PHONY : LeetCode/Easy_1380.cpp.s
 
 # Help Target
 help:
@@ -258,21 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Daily_one_problem"
-	@echo "... PAT_A/A1002.o"
-	@echo "... PAT_A/A1002.i"
-	@echo "... PAT_A/A1002.s"
-	@echo "... PAT_A/A1042.o"
-	@echo "... PAT_A/A1042.i"
-	@echo "... PAT_A/A1042.s"
-	@echo "... PAT_A/A1046.o"
-	@echo "... PAT_A/A1046.i"
-	@echo "... PAT_A/A1046.s"
-	@echo "... PAT_A/A1065.o"
-	@echo "... PAT_A/A1065.i"
-	@echo "... PAT_A/A1065.s"
-	@echo "... PAT_B/B1046.o"
-	@echo "... PAT_B/B1046.i"
-	@echo "... PAT_B/B1046.s"
+	@echo "... LeetCode/Easy_1380.o"
+	@echo "... LeetCode/Easy_1380.i"
+	@echo "... LeetCode/Easy_1380.s"
 .PHONY : help
 
 

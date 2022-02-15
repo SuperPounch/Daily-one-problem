@@ -1,14 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Daily_one_problem.dir/PAT_A/A1002.cpp.o"
-  "CMakeFiles/Daily_one_problem.dir/PAT_A/A1002.cpp.o.d"
-  "CMakeFiles/Daily_one_problem.dir/PAT_A/A1042.cpp.o"
-  "CMakeFiles/Daily_one_problem.dir/PAT_A/A1042.cpp.o.d"
-  "CMakeFiles/Daily_one_problem.dir/PAT_A/A1046.cpp.o"
-  "CMakeFiles/Daily_one_problem.dir/PAT_A/A1046.cpp.o.d"
-  "CMakeFiles/Daily_one_problem.dir/PAT_A/A1065.cpp.o"
-  "CMakeFiles/Daily_one_problem.dir/PAT_A/A1065.cpp.o.d"
-  "CMakeFiles/Daily_one_problem.dir/PAT_B/B1046.cpp.o"
-  "CMakeFiles/Daily_one_problem.dir/PAT_B/B1046.cpp.o.d"
+  "CMakeFiles/Daily_one_problem.dir/LeetCode/Easy_1380.cpp.o"
+  "CMakeFiles/Daily_one_problem.dir/LeetCode/Easy_1380.cpp.o.d"
   "Daily_one_problem"
   "Daily_one_problem.pdb"
 )

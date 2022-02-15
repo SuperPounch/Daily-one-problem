@@ -69,95 +69,31 @@ include CMakeFiles/Daily_one_problem.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Daily_one_problem.dir/flags.make
 
-CMakeFiles/Daily_one_problem.dir/PAT_B/B1046.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
-CMakeFiles/Daily_one_problem.dir/PAT_B/B1046.cpp.o: ../PAT_B/B1046.cpp
-CMakeFiles/Daily_one_problem.dir/PAT_B/B1046.cpp.o: CMakeFiles/Daily_one_problem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Daily_one_problem.dir/PAT_B/B1046.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Daily_one_problem.dir/PAT_B/B1046.cpp.o -MF CMakeFiles/Daily_one_problem.dir/PAT_B/B1046.cpp.o.d -o CMakeFiles/Daily_one_problem.dir/PAT_B/B1046.cpp.o -c /Users/lx/CLionProjects/Daily-one-problem/PAT_B/B1046.cpp
+CMakeFiles/Daily_one_problem.dir/LeetCode/Easy_1380.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
+CMakeFiles/Daily_one_problem.dir/LeetCode/Easy_1380.cpp.o: ../LeetCode/Easy_1380.cpp
+CMakeFiles/Daily_one_problem.dir/LeetCode/Easy_1380.cpp.o: CMakeFiles/Daily_one_problem.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Daily_one_problem.dir/LeetCode/Easy_1380.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Daily_one_problem.dir/LeetCode/Easy_1380.cpp.o -MF CMakeFiles/Daily_one_problem.dir/LeetCode/Easy_1380.cpp.o.d -o CMakeFiles/Daily_one_problem.dir/LeetCode/Easy_1380.cpp.o -c /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy_1380.cpp
 
-CMakeFiles/Daily_one_problem.dir/PAT_B/B1046.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/PAT_B/B1046.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lx/CLionProjects/Daily-one-problem/PAT_B/B1046.cpp > CMakeFiles/Daily_one_problem.dir/PAT_B/B1046.cpp.i
+CMakeFiles/Daily_one_problem.dir/LeetCode/Easy_1380.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/LeetCode/Easy_1380.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy_1380.cpp > CMakeFiles/Daily_one_problem.dir/LeetCode/Easy_1380.cpp.i
 
-CMakeFiles/Daily_one_problem.dir/PAT_B/B1046.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/PAT_B/B1046.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lx/CLionProjects/Daily-one-problem/PAT_B/B1046.cpp -o CMakeFiles/Daily_one_problem.dir/PAT_B/B1046.cpp.s
-
-CMakeFiles/Daily_one_problem.dir/PAT_A/A1042.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
-CMakeFiles/Daily_one_problem.dir/PAT_A/A1042.cpp.o: ../PAT_A/A1042.cpp
-CMakeFiles/Daily_one_problem.dir/PAT_A/A1042.cpp.o: CMakeFiles/Daily_one_problem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Daily_one_problem.dir/PAT_A/A1042.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Daily_one_problem.dir/PAT_A/A1042.cpp.o -MF CMakeFiles/Daily_one_problem.dir/PAT_A/A1042.cpp.o.d -o CMakeFiles/Daily_one_problem.dir/PAT_A/A1042.cpp.o -c /Users/lx/CLionProjects/Daily-one-problem/PAT_A/A1042.cpp
-
-CMakeFiles/Daily_one_problem.dir/PAT_A/A1042.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/PAT_A/A1042.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lx/CLionProjects/Daily-one-problem/PAT_A/A1042.cpp > CMakeFiles/Daily_one_problem.dir/PAT_A/A1042.cpp.i
-
-CMakeFiles/Daily_one_problem.dir/PAT_A/A1042.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/PAT_A/A1042.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lx/CLionProjects/Daily-one-problem/PAT_A/A1042.cpp -o CMakeFiles/Daily_one_problem.dir/PAT_A/A1042.cpp.s
-
-CMakeFiles/Daily_one_problem.dir/PAT_A/A1046.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
-CMakeFiles/Daily_one_problem.dir/PAT_A/A1046.cpp.o: ../PAT_A/A1046.cpp
-CMakeFiles/Daily_one_problem.dir/PAT_A/A1046.cpp.o: CMakeFiles/Daily_one_problem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Daily_one_problem.dir/PAT_A/A1046.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Daily_one_problem.dir/PAT_A/A1046.cpp.o -MF CMakeFiles/Daily_one_problem.dir/PAT_A/A1046.cpp.o.d -o CMakeFiles/Daily_one_problem.dir/PAT_A/A1046.cpp.o -c /Users/lx/CLionProjects/Daily-one-problem/PAT_A/A1046.cpp
-
-CMakeFiles/Daily_one_problem.dir/PAT_A/A1046.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/PAT_A/A1046.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lx/CLionProjects/Daily-one-problem/PAT_A/A1046.cpp > CMakeFiles/Daily_one_problem.dir/PAT_A/A1046.cpp.i
-
-CMakeFiles/Daily_one_problem.dir/PAT_A/A1046.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/PAT_A/A1046.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lx/CLionProjects/Daily-one-problem/PAT_A/A1046.cpp -o CMakeFiles/Daily_one_problem.dir/PAT_A/A1046.cpp.s
-
-CMakeFiles/Daily_one_problem.dir/PAT_A/A1065.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
-CMakeFiles/Daily_one_problem.dir/PAT_A/A1065.cpp.o: ../PAT_A/A1065.cpp
-CMakeFiles/Daily_one_problem.dir/PAT_A/A1065.cpp.o: CMakeFiles/Daily_one_problem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Daily_one_problem.dir/PAT_A/A1065.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Daily_one_problem.dir/PAT_A/A1065.cpp.o -MF CMakeFiles/Daily_one_problem.dir/PAT_A/A1065.cpp.o.d -o CMakeFiles/Daily_one_problem.dir/PAT_A/A1065.cpp.o -c /Users/lx/CLionProjects/Daily-one-problem/PAT_A/A1065.cpp
-
-CMakeFiles/Daily_one_problem.dir/PAT_A/A1065.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/PAT_A/A1065.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lx/CLionProjects/Daily-one-problem/PAT_A/A1065.cpp > CMakeFiles/Daily_one_problem.dir/PAT_A/A1065.cpp.i
-
-CMakeFiles/Daily_one_problem.dir/PAT_A/A1065.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/PAT_A/A1065.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lx/CLionProjects/Daily-one-problem/PAT_A/A1065.cpp -o CMakeFiles/Daily_one_problem.dir/PAT_A/A1065.cpp.s
-
-CMakeFiles/Daily_one_problem.dir/PAT_A/A1002.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
-CMakeFiles/Daily_one_problem.dir/PAT_A/A1002.cpp.o: ../PAT_A/A1002.cpp
-CMakeFiles/Daily_one_problem.dir/PAT_A/A1002.cpp.o: CMakeFiles/Daily_one_problem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Daily_one_problem.dir/PAT_A/A1002.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Daily_one_problem.dir/PAT_A/A1002.cpp.o -MF CMakeFiles/Daily_one_problem.dir/PAT_A/A1002.cpp.o.d -o CMakeFiles/Daily_one_problem.dir/PAT_A/A1002.cpp.o -c /Users/lx/CLionProjects/Daily-one-problem/PAT_A/A1002.cpp
-
-CMakeFiles/Daily_one_problem.dir/PAT_A/A1002.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/PAT_A/A1002.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lx/CLionProjects/Daily-one-problem/PAT_A/A1002.cpp > CMakeFiles/Daily_one_problem.dir/PAT_A/A1002.cpp.i
-
-CMakeFiles/Daily_one_problem.dir/PAT_A/A1002.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/PAT_A/A1002.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lx/CLionProjects/Daily-one-problem/PAT_A/A1002.cpp -o CMakeFiles/Daily_one_problem.dir/PAT_A/A1002.cpp.s
+CMakeFiles/Daily_one_problem.dir/LeetCode/Easy_1380.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/LeetCode/Easy_1380.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy_1380.cpp -o CMakeFiles/Daily_one_problem.dir/LeetCode/Easy_1380.cpp.s
 
 # Object files for target Daily_one_problem
 Daily_one_problem_OBJECTS = \
-"CMakeFiles/Daily_one_problem.dir/PAT_B/B1046.cpp.o" \
-"CMakeFiles/Daily_one_problem.dir/PAT_A/A1042.cpp.o" \
-"CMakeFiles/Daily_one_problem.dir/PAT_A/A1046.cpp.o" \
-"CMakeFiles/Daily_one_problem.dir/PAT_A/A1065.cpp.o" \
-"CMakeFiles/Daily_one_problem.dir/PAT_A/A1002.cpp.o"
+"CMakeFiles/Daily_one_problem.dir/LeetCode/Easy_1380.cpp.o"
 
 # External object files for target Daily_one_problem
 Daily_one_problem_EXTERNAL_OBJECTS =
 
-Daily_one_problem: CMakeFiles/Daily_one_problem.dir/PAT_B/B1046.cpp.o
-Daily_one_problem: CMakeFiles/Daily_one_problem.dir/PAT_A/A1042.cpp.o
-Daily_one_problem: CMakeFiles/Daily_one_problem.dir/PAT_A/A1046.cpp.o
-Daily_one_problem: CMakeFiles/Daily_one_problem.dir/PAT_A/A1065.cpp.o
-Daily_one_problem: CMakeFiles/Daily_one_problem.dir/PAT_A/A1002.cpp.o
+Daily_one_problem: CMakeFiles/Daily_one_problem.dir/LeetCode/Easy_1380.cpp.o
 Daily_one_problem: CMakeFiles/Daily_one_problem.dir/build.make
 Daily_one_problem: CMakeFiles/Daily_one_problem.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Daily_one_problem"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Daily_one_problem"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Daily_one_problem.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
