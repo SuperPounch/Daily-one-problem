@@ -129,6 +129,30 @@ Daily_one_problem/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/build
 .PHONY : Daily_one_problem/fast
 
+LeetCode/Easy1791.o: LeetCode/Easy1791.cpp.o
+.PHONY : LeetCode/Easy1791.o
+
+# target to build an object file
+LeetCode/Easy1791.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy1791.cpp.o
+.PHONY : LeetCode/Easy1791.cpp.o
+
+LeetCode/Easy1791.i: LeetCode/Easy1791.cpp.i
+.PHONY : LeetCode/Easy1791.i
+
+# target to preprocess a source file
+LeetCode/Easy1791.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy1791.cpp.i
+.PHONY : LeetCode/Easy1791.cpp.i
+
+LeetCode/Easy1791.s: LeetCode/Easy1791.cpp.s
+.PHONY : LeetCode/Easy1791.s
+
+# target to generate assembly for a file
+LeetCode/Easy1791.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy1791.cpp.s
+.PHONY : LeetCode/Easy1791.cpp.s
+
 LeetCode/Easy_1380.o: LeetCode/Easy_1380.cpp.o
 .PHONY : LeetCode/Easy_1380.o
 
@@ -162,6 +186,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Daily_one_problem"
+	@echo "... LeetCode/Easy1791.o"
+	@echo "... LeetCode/Easy1791.i"
+	@echo "... LeetCode/Easy1791.s"
 	@echo "... LeetCode/Easy_1380.o"
 	@echo "... LeetCode/Easy_1380.i"
 	@echo "... LeetCode/Easy_1380.s"
