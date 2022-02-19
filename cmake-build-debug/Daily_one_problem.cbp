@@ -78,13 +78,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy1791.cpp">
-			<Option target="Daily_one_problem"/>
-		</Unit>
-		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy_1380.cpp">
-			<Option target="Daily_one_problem"/>
-		</Unit>
-		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy_1380.h">
+		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Mid969.cpp">
 			<Option target="Daily_one_problem"/>
 		</Unit>
 		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/CMakeLists.txt">

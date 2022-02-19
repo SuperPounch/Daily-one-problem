@@ -3,4 +3,4 @@ project(Daily_one_problem)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Daily_one_problem  LeetCode/Easy_1380.cpp LeetCode/Easy1791.cpp)
+add_executable(Daily_one_problem  LeetCode/Mid969.cpp)

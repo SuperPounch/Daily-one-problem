@@ -1,7 +1,6 @@
 CMakeFiles/Daily_one_problem.dir/LeetCode/Easy_1380.cpp.o: \
   /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy_1380.cpp \
   /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy_1380.h \
-  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include/altivec.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk/usr/include/c++/v1/vector \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk/usr/include/c++/v1/__config \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk/usr/include/pthread.h \
