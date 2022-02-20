@@ -6,11 +6,13 @@
 #include "vector"
 
 using namespace std;
+
 //煎饼排序
 //类选择排序--找到每次排序的最大数字，通过两次操作将他放到操作组的队尾
 //第一次将最大数(下标index）翻转到队首，再次翻转到队尾
 //第一步选择 k = index + 1，然后反转子数组 arr[0 ... k - 1]，此时该元素已经被放到首部。
 //第二步选择 k = n，其中 n 是数组arr 的长度，然后反转整个数组，此时该元素已经被放到尾部。
+
 class Solution {
 public:
     vector<int>pancakeSort (vector<int>& arr){

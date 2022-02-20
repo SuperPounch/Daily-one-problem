@@ -3,18 +3,19 @@
 //
 #include "iostream"
 #include "unordered_map"
+
 using namespace std;
 
 class Solution {
 public:
-    int findCenter(vector<vector<int>>& edges) {
+    int findCenter(vector<vector<int>> &edges) {
         unordered_map<int, int> degree;
-        for (auto& edge : edges) {
-            degree[edge[0]] ++;
-            degree[edge[1]] ++;
+        for (auto &edge: edges) {
+            degree[edge[0]]++;
+            degree[edge[1]]++;
         }
         int N = degree.size();
-        for (auto& v : degree) {
+        for (auto &v: degree) {
             if (v.second == N - 1) {
                 return v.first;
             }
