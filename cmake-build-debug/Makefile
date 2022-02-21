@@ -153,29 +153,29 @@ LeetCode/Easy717.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy717.cpp.s
 .PHONY : LeetCode/Easy717.cpp.s
 
-LeetCode/Mid969.o: LeetCode/Mid969.cpp.o
-.PHONY : LeetCode/Mid969.o
+LeetCode/Mid838.o: LeetCode/Mid838.cpp.o
+.PHONY : LeetCode/Mid838.o
 
 # target to build an object file
-LeetCode/Mid969.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Mid969.cpp.o
-.PHONY : LeetCode/Mid969.cpp.o
+LeetCode/Mid838.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Mid838.cpp.o
+.PHONY : LeetCode/Mid838.cpp.o
 
-LeetCode/Mid969.i: LeetCode/Mid969.cpp.i
-.PHONY : LeetCode/Mid969.i
+LeetCode/Mid838.i: LeetCode/Mid838.cpp.i
+.PHONY : LeetCode/Mid838.i
 
 # target to preprocess a source file
-LeetCode/Mid969.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Mid969.cpp.i
-.PHONY : LeetCode/Mid969.cpp.i
+LeetCode/Mid838.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Mid838.cpp.i
+.PHONY : LeetCode/Mid838.cpp.i
 
-LeetCode/Mid969.s: LeetCode/Mid969.cpp.s
-.PHONY : LeetCode/Mid969.s
+LeetCode/Mid838.s: LeetCode/Mid838.cpp.s
+.PHONY : LeetCode/Mid838.s
 
 # target to generate assembly for a file
-LeetCode/Mid969.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Mid969.cpp.s
-.PHONY : LeetCode/Mid969.cpp.s
+LeetCode/Mid838.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Mid838.cpp.s
+.PHONY : LeetCode/Mid838.cpp.s
 
 # Help Target
 help:
@@ -189,9 +189,9 @@ help:
 	@echo "... LeetCode/Easy717.o"
 	@echo "... LeetCode/Easy717.i"
 	@echo "... LeetCode/Easy717.s"
-	@echo "... LeetCode/Mid969.o"
-	@echo "... LeetCode/Mid969.i"
-	@echo "... LeetCode/Mid969.s"
+	@echo "... LeetCode/Mid838.o"
+	@echo "... LeetCode/Mid838.i"
+	@echo "... LeetCode/Mid838.s"
 .PHONY : help
 
 
