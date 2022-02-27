@@ -225,6 +225,54 @@ LeetCode/Medium1706.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Medium1706.cpp.s
 .PHONY : LeetCode/Medium1706.cpp.s
 
+LeetCode/Medium537.o: LeetCode/Medium537.cpp.o
+.PHONY : LeetCode/Medium537.o
+
+# target to build an object file
+LeetCode/Medium537.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Medium537.cpp.o
+.PHONY : LeetCode/Medium537.cpp.o
+
+LeetCode/Medium537.i: LeetCode/Medium537.cpp.i
+.PHONY : LeetCode/Medium537.i
+
+# target to preprocess a source file
+LeetCode/Medium537.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Medium537.cpp.i
+.PHONY : LeetCode/Medium537.cpp.i
+
+LeetCode/Medium537.s: LeetCode/Medium537.cpp.s
+.PHONY : LeetCode/Medium537.s
+
+# target to generate assembly for a file
+LeetCode/Medium537.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Medium537.cpp.s
+.PHONY : LeetCode/Medium537.cpp.s
+
+LeetCode/Medium553.o: LeetCode/Medium553.cpp.o
+.PHONY : LeetCode/Medium553.o
+
+# target to build an object file
+LeetCode/Medium553.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Medium553.cpp.o
+.PHONY : LeetCode/Medium553.cpp.o
+
+LeetCode/Medium553.i: LeetCode/Medium553.cpp.i
+.PHONY : LeetCode/Medium553.i
+
+# target to preprocess a source file
+LeetCode/Medium553.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Medium553.cpp.i
+.PHONY : LeetCode/Medium553.cpp.i
+
+LeetCode/Medium553.s: LeetCode/Medium553.cpp.s
+.PHONY : LeetCode/Medium553.s
+
+# target to generate assembly for a file
+LeetCode/Medium553.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Medium553.cpp.s
+.PHONY : LeetCode/Medium553.cpp.s
+
 LeetCode/Mid838.o: LeetCode/Mid838.cpp.o
 .PHONY : LeetCode/Mid838.o
 
@@ -270,6 +318,12 @@ help:
 	@echo "... LeetCode/Medium1706.o"
 	@echo "... LeetCode/Medium1706.i"
 	@echo "... LeetCode/Medium1706.s"
+	@echo "... LeetCode/Medium537.o"
+	@echo "... LeetCode/Medium537.i"
+	@echo "... LeetCode/Medium537.s"
+	@echo "... LeetCode/Medium553.o"
+	@echo "... LeetCode/Medium553.i"
+	@echo "... LeetCode/Medium553.s"
 	@echo "... LeetCode/Mid838.o"
 	@echo "... LeetCode/Mid838.i"
 	@echo "... LeetCode/Mid838.s"

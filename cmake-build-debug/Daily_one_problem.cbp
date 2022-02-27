@@ -90,6 +90,12 @@
 		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium1706.cpp">
 			<Option target="Daily_one_problem"/>
 		</Unit>
+		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium537.cpp">
+			<Option target="Daily_one_problem"/>
+		</Unit>
+		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium553.cpp">
+			<Option target="Daily_one_problem"/>
+		</Unit>
 		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Mid838.cpp">
 			<Option target="Daily_one_problem"/>
 		</Unit>
