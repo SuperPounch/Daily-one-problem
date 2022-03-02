@@ -201,6 +201,30 @@ LeetCode/Hard1994.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Hard1994.cpp.s
 .PHONY : LeetCode/Hard1994.cpp.s
 
+LeetCode/Hard564.o: LeetCode/Hard564.cpp.o
+.PHONY : LeetCode/Hard564.o
+
+# target to build an object file
+LeetCode/Hard564.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Hard564.cpp.o
+.PHONY : LeetCode/Hard564.cpp.o
+
+LeetCode/Hard564.i: LeetCode/Hard564.cpp.i
+.PHONY : LeetCode/Hard564.i
+
+# target to preprocess a source file
+LeetCode/Hard564.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Hard564.cpp.i
+.PHONY : LeetCode/Hard564.cpp.i
+
+LeetCode/Hard564.s: LeetCode/Hard564.cpp.s
+.PHONY : LeetCode/Hard564.s
+
+# target to generate assembly for a file
+LeetCode/Hard564.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Hard564.cpp.s
+.PHONY : LeetCode/Hard564.cpp.s
+
 LeetCode/Medium1706.o: LeetCode/Medium1706.cpp.o
 .PHONY : LeetCode/Medium1706.o
 
@@ -315,6 +339,9 @@ help:
 	@echo "... LeetCode/Hard1994.o"
 	@echo "... LeetCode/Hard1994.i"
 	@echo "... LeetCode/Hard1994.s"
+	@echo "... LeetCode/Hard564.o"
+	@echo "... LeetCode/Hard564.i"
+	@echo "... LeetCode/Hard564.s"
 	@echo "... LeetCode/Medium1706.o"
 	@echo "... LeetCode/Medium1706.i"
 	@echo "... LeetCode/Medium1706.s"

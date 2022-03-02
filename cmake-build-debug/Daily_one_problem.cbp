@@ -87,6 +87,9 @@
 		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Hard1994.cpp">
 			<Option target="Daily_one_problem"/>
 		</Unit>
+		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Hard564.cpp">
+			<Option target="Daily_one_problem"/>
+		</Unit>
 		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium1706.cpp">
 			<Option target="Daily_one_problem"/>
 		</Unit>
