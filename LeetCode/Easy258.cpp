@@ -22,11 +22,11 @@ public:
 //O（log（num））
 //作者：LeetCode-Solution
 //Way 2 ： math
-class Solution {
+/*class Solution {
 public:
     int addDigits(int num) {
         return (num - 1) % 9 + 1;
     }
-};
+};*/
 //O（1）
 //作者：LeetCode-Solution
