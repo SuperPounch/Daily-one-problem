@@ -81,6 +81,9 @@
 		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy258.cpp">
 			<Option target="Daily_one_problem"/>
 		</Unit>
+		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy504.cpp">
+			<Option target="Daily_one_problem"/>
+		</Unit>
 		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy717.cpp">
 			<Option target="Daily_one_problem"/>
 		</Unit>
@@ -94,6 +97,9 @@
 			<Option target="Daily_one_problem"/>
 		</Unit>
 		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium1706.cpp">
+			<Option target="Daily_one_problem"/>
+		</Unit>
+		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium2100.cpp">
 			<Option target="Daily_one_problem"/>
 		</Unit>
 		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium537.cpp">
