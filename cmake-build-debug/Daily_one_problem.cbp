@@ -78,37 +78,43 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy258.cpp">
+		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy/Easy258.cpp">
 			<Option target="Daily_one_problem"/>
 		</Unit>
-		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy504.cpp">
+		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy/Easy504.cpp">
 			<Option target="Daily_one_problem"/>
 		</Unit>
-		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy717.cpp">
+		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy/Easy717.cpp">
 			<Option target="Daily_one_problem"/>
 		</Unit>
-		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy917.cpp">
+		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy/Easy917.cpp">
 			<Option target="Daily_one_problem"/>
 		</Unit>
-		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Hard1994.cpp">
+		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Hard/Hard1994.cpp">
 			<Option target="Daily_one_problem"/>
 		</Unit>
-		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Hard564.cpp">
+		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Hard/Hard564.cpp">
 			<Option target="Daily_one_problem"/>
 		</Unit>
-		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium1706.cpp">
+		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium1706.cpp">
 			<Option target="Daily_one_problem"/>
 		</Unit>
-		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium2100.cpp">
+		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium2055.cpp">
 			<Option target="Daily_one_problem"/>
 		</Unit>
-		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium537.cpp">
+		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium2100.cpp">
 			<Option target="Daily_one_problem"/>
 		</Unit>
-		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium553.cpp">
+		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium537.cpp">
 			<Option target="Daily_one_problem"/>
 		</Unit>
-		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Mid838.cpp">
+		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium553.cpp">
+			<Option target="Daily_one_problem"/>
+		</Unit>
+		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium6.cpp">
+			<Option target="Daily_one_problem"/>
+		</Unit>
+		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium838.cpp">
 			<Option target="Daily_one_problem"/>
 		</Unit>
 		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/CMakeLists.txt">

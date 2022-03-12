@@ -69,191 +69,223 @@ include CMakeFiles/Daily_one_problem.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Daily_one_problem.dir/flags.make
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Easy717.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
-CMakeFiles/Daily_one_problem.dir/LeetCode/Easy717.cpp.o: ../LeetCode/Easy717.cpp
-CMakeFiles/Daily_one_problem.dir/LeetCode/Easy717.cpp.o: CMakeFiles/Daily_one_problem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Daily_one_problem.dir/LeetCode/Easy717.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Daily_one_problem.dir/LeetCode/Easy717.cpp.o -MF CMakeFiles/Daily_one_problem.dir/LeetCode/Easy717.cpp.o.d -o CMakeFiles/Daily_one_problem.dir/LeetCode/Easy717.cpp.o -c /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy717.cpp
+CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy717.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
+CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy717.cpp.o: ../LeetCode/Easy/Easy717.cpp
+CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy717.cpp.o: CMakeFiles/Daily_one_problem.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy717.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy717.cpp.o -MF CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy717.cpp.o.d -o CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy717.cpp.o -c /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy/Easy717.cpp
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Easy717.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/LeetCode/Easy717.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy717.cpp > CMakeFiles/Daily_one_problem.dir/LeetCode/Easy717.cpp.i
+CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy717.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy717.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy/Easy717.cpp > CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy717.cpp.i
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Easy717.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/LeetCode/Easy717.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy717.cpp -o CMakeFiles/Daily_one_problem.dir/LeetCode/Easy717.cpp.s
+CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy717.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy717.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy/Easy717.cpp -o CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy717.cpp.s
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Mid838.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
-CMakeFiles/Daily_one_problem.dir/LeetCode/Mid838.cpp.o: ../LeetCode/Mid838.cpp
-CMakeFiles/Daily_one_problem.dir/LeetCode/Mid838.cpp.o: CMakeFiles/Daily_one_problem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Daily_one_problem.dir/LeetCode/Mid838.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Daily_one_problem.dir/LeetCode/Mid838.cpp.o -MF CMakeFiles/Daily_one_problem.dir/LeetCode/Mid838.cpp.o.d -o CMakeFiles/Daily_one_problem.dir/LeetCode/Mid838.cpp.o -c /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Mid838.cpp
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium838.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium838.cpp.o: ../LeetCode/Medium/Medium838.cpp
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium838.cpp.o: CMakeFiles/Daily_one_problem.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium838.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium838.cpp.o -MF CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium838.cpp.o.d -o CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium838.cpp.o -c /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium838.cpp
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Mid838.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/LeetCode/Mid838.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Mid838.cpp > CMakeFiles/Daily_one_problem.dir/LeetCode/Mid838.cpp.i
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium838.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium838.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium838.cpp > CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium838.cpp.i
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Mid838.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/LeetCode/Mid838.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Mid838.cpp -o CMakeFiles/Daily_one_problem.dir/LeetCode/Mid838.cpp.s
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium838.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium838.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium838.cpp -o CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium838.cpp.s
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Hard1994.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
-CMakeFiles/Daily_one_problem.dir/LeetCode/Hard1994.cpp.o: ../LeetCode/Hard1994.cpp
-CMakeFiles/Daily_one_problem.dir/LeetCode/Hard1994.cpp.o: CMakeFiles/Daily_one_problem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Daily_one_problem.dir/LeetCode/Hard1994.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Daily_one_problem.dir/LeetCode/Hard1994.cpp.o -MF CMakeFiles/Daily_one_problem.dir/LeetCode/Hard1994.cpp.o.d -o CMakeFiles/Daily_one_problem.dir/LeetCode/Hard1994.cpp.o -c /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Hard1994.cpp
+CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard1994.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
+CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard1994.cpp.o: ../LeetCode/Hard/Hard1994.cpp
+CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard1994.cpp.o: CMakeFiles/Daily_one_problem.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard1994.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard1994.cpp.o -MF CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard1994.cpp.o.d -o CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard1994.cpp.o -c /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Hard/Hard1994.cpp
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Hard1994.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/LeetCode/Hard1994.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Hard1994.cpp > CMakeFiles/Daily_one_problem.dir/LeetCode/Hard1994.cpp.i
+CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard1994.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard1994.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Hard/Hard1994.cpp > CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard1994.cpp.i
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Hard1994.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/LeetCode/Hard1994.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Hard1994.cpp -o CMakeFiles/Daily_one_problem.dir/LeetCode/Hard1994.cpp.s
+CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard1994.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard1994.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Hard/Hard1994.cpp -o CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard1994.cpp.s
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Easy917.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
-CMakeFiles/Daily_one_problem.dir/LeetCode/Easy917.cpp.o: ../LeetCode/Easy917.cpp
-CMakeFiles/Daily_one_problem.dir/LeetCode/Easy917.cpp.o: CMakeFiles/Daily_one_problem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Daily_one_problem.dir/LeetCode/Easy917.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Daily_one_problem.dir/LeetCode/Easy917.cpp.o -MF CMakeFiles/Daily_one_problem.dir/LeetCode/Easy917.cpp.o.d -o CMakeFiles/Daily_one_problem.dir/LeetCode/Easy917.cpp.o -c /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy917.cpp
+CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy917.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
+CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy917.cpp.o: ../LeetCode/Easy/Easy917.cpp
+CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy917.cpp.o: CMakeFiles/Daily_one_problem.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy917.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy917.cpp.o -MF CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy917.cpp.o.d -o CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy917.cpp.o -c /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy/Easy917.cpp
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Easy917.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/LeetCode/Easy917.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy917.cpp > CMakeFiles/Daily_one_problem.dir/LeetCode/Easy917.cpp.i
+CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy917.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy917.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy/Easy917.cpp > CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy917.cpp.i
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Easy917.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/LeetCode/Easy917.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy917.cpp -o CMakeFiles/Daily_one_problem.dir/LeetCode/Easy917.cpp.s
+CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy917.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy917.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy/Easy917.cpp -o CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy917.cpp.s
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Medium1706.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
-CMakeFiles/Daily_one_problem.dir/LeetCode/Medium1706.cpp.o: ../LeetCode/Medium1706.cpp
-CMakeFiles/Daily_one_problem.dir/LeetCode/Medium1706.cpp.o: CMakeFiles/Daily_one_problem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Daily_one_problem.dir/LeetCode/Medium1706.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Daily_one_problem.dir/LeetCode/Medium1706.cpp.o -MF CMakeFiles/Daily_one_problem.dir/LeetCode/Medium1706.cpp.o.d -o CMakeFiles/Daily_one_problem.dir/LeetCode/Medium1706.cpp.o -c /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium1706.cpp
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium1706.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium1706.cpp.o: ../LeetCode/Medium/Medium1706.cpp
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium1706.cpp.o: CMakeFiles/Daily_one_problem.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium1706.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium1706.cpp.o -MF CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium1706.cpp.o.d -o CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium1706.cpp.o -c /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium1706.cpp
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Medium1706.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/LeetCode/Medium1706.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium1706.cpp > CMakeFiles/Daily_one_problem.dir/LeetCode/Medium1706.cpp.i
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium1706.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium1706.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium1706.cpp > CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium1706.cpp.i
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Medium1706.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/LeetCode/Medium1706.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium1706.cpp -o CMakeFiles/Daily_one_problem.dir/LeetCode/Medium1706.cpp.s
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium1706.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium1706.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium1706.cpp -o CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium1706.cpp.s
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Medium537.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
-CMakeFiles/Daily_one_problem.dir/LeetCode/Medium537.cpp.o: ../LeetCode/Medium537.cpp
-CMakeFiles/Daily_one_problem.dir/LeetCode/Medium537.cpp.o: CMakeFiles/Daily_one_problem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Daily_one_problem.dir/LeetCode/Medium537.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Daily_one_problem.dir/LeetCode/Medium537.cpp.o -MF CMakeFiles/Daily_one_problem.dir/LeetCode/Medium537.cpp.o.d -o CMakeFiles/Daily_one_problem.dir/LeetCode/Medium537.cpp.o -c /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium537.cpp
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium537.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium537.cpp.o: ../LeetCode/Medium/Medium537.cpp
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium537.cpp.o: CMakeFiles/Daily_one_problem.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium537.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium537.cpp.o -MF CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium537.cpp.o.d -o CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium537.cpp.o -c /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium537.cpp
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Medium537.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/LeetCode/Medium537.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium537.cpp > CMakeFiles/Daily_one_problem.dir/LeetCode/Medium537.cpp.i
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium537.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium537.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium537.cpp > CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium537.cpp.i
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Medium537.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/LeetCode/Medium537.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium537.cpp -o CMakeFiles/Daily_one_problem.dir/LeetCode/Medium537.cpp.s
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium537.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium537.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium537.cpp -o CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium537.cpp.s
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Medium553.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
-CMakeFiles/Daily_one_problem.dir/LeetCode/Medium553.cpp.o: ../LeetCode/Medium553.cpp
-CMakeFiles/Daily_one_problem.dir/LeetCode/Medium553.cpp.o: CMakeFiles/Daily_one_problem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Daily_one_problem.dir/LeetCode/Medium553.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Daily_one_problem.dir/LeetCode/Medium553.cpp.o -MF CMakeFiles/Daily_one_problem.dir/LeetCode/Medium553.cpp.o.d -o CMakeFiles/Daily_one_problem.dir/LeetCode/Medium553.cpp.o -c /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium553.cpp
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium553.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium553.cpp.o: ../LeetCode/Medium/Medium553.cpp
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium553.cpp.o: CMakeFiles/Daily_one_problem.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium553.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium553.cpp.o -MF CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium553.cpp.o.d -o CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium553.cpp.o -c /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium553.cpp
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Medium553.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/LeetCode/Medium553.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium553.cpp > CMakeFiles/Daily_one_problem.dir/LeetCode/Medium553.cpp.i
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium553.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium553.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium553.cpp > CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium553.cpp.i
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Medium553.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/LeetCode/Medium553.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium553.cpp -o CMakeFiles/Daily_one_problem.dir/LeetCode/Medium553.cpp.s
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium553.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium553.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium553.cpp -o CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium553.cpp.s
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Hard564.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
-CMakeFiles/Daily_one_problem.dir/LeetCode/Hard564.cpp.o: ../LeetCode/Hard564.cpp
-CMakeFiles/Daily_one_problem.dir/LeetCode/Hard564.cpp.o: CMakeFiles/Daily_one_problem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Daily_one_problem.dir/LeetCode/Hard564.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Daily_one_problem.dir/LeetCode/Hard564.cpp.o -MF CMakeFiles/Daily_one_problem.dir/LeetCode/Hard564.cpp.o.d -o CMakeFiles/Daily_one_problem.dir/LeetCode/Hard564.cpp.o -c /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Hard564.cpp
+CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard564.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
+CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard564.cpp.o: ../LeetCode/Hard/Hard564.cpp
+CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard564.cpp.o: CMakeFiles/Daily_one_problem.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard564.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard564.cpp.o -MF CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard564.cpp.o.d -o CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard564.cpp.o -c /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Hard/Hard564.cpp
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Hard564.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/LeetCode/Hard564.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Hard564.cpp > CMakeFiles/Daily_one_problem.dir/LeetCode/Hard564.cpp.i
+CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard564.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard564.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Hard/Hard564.cpp > CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard564.cpp.i
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Hard564.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/LeetCode/Hard564.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Hard564.cpp -o CMakeFiles/Daily_one_problem.dir/LeetCode/Hard564.cpp.s
+CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard564.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard564.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Hard/Hard564.cpp -o CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard564.cpp.s
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Easy258.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
-CMakeFiles/Daily_one_problem.dir/LeetCode/Easy258.cpp.o: ../LeetCode/Easy258.cpp
-CMakeFiles/Daily_one_problem.dir/LeetCode/Easy258.cpp.o: CMakeFiles/Daily_one_problem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Daily_one_problem.dir/LeetCode/Easy258.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Daily_one_problem.dir/LeetCode/Easy258.cpp.o -MF CMakeFiles/Daily_one_problem.dir/LeetCode/Easy258.cpp.o.d -o CMakeFiles/Daily_one_problem.dir/LeetCode/Easy258.cpp.o -c /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy258.cpp
+CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy258.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
+CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy258.cpp.o: ../LeetCode/Easy/Easy258.cpp
+CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy258.cpp.o: CMakeFiles/Daily_one_problem.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy258.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy258.cpp.o -MF CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy258.cpp.o.d -o CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy258.cpp.o -c /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy/Easy258.cpp
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Easy258.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/LeetCode/Easy258.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy258.cpp > CMakeFiles/Daily_one_problem.dir/LeetCode/Easy258.cpp.i
+CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy258.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy258.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy/Easy258.cpp > CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy258.cpp.i
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Easy258.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/LeetCode/Easy258.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy258.cpp -o CMakeFiles/Daily_one_problem.dir/LeetCode/Easy258.cpp.s
+CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy258.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy258.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy/Easy258.cpp -o CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy258.cpp.s
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Easy504.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
-CMakeFiles/Daily_one_problem.dir/LeetCode/Easy504.cpp.o: ../LeetCode/Easy504.cpp
-CMakeFiles/Daily_one_problem.dir/LeetCode/Easy504.cpp.o: CMakeFiles/Daily_one_problem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Daily_one_problem.dir/LeetCode/Easy504.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Daily_one_problem.dir/LeetCode/Easy504.cpp.o -MF CMakeFiles/Daily_one_problem.dir/LeetCode/Easy504.cpp.o.d -o CMakeFiles/Daily_one_problem.dir/LeetCode/Easy504.cpp.o -c /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy504.cpp
+CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy504.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
+CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy504.cpp.o: ../LeetCode/Easy/Easy504.cpp
+CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy504.cpp.o: CMakeFiles/Daily_one_problem.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy504.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy504.cpp.o -MF CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy504.cpp.o.d -o CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy504.cpp.o -c /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy/Easy504.cpp
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Easy504.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/LeetCode/Easy504.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy504.cpp > CMakeFiles/Daily_one_problem.dir/LeetCode/Easy504.cpp.i
+CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy504.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy504.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy/Easy504.cpp > CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy504.cpp.i
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Easy504.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/LeetCode/Easy504.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy504.cpp -o CMakeFiles/Daily_one_problem.dir/LeetCode/Easy504.cpp.s
+CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy504.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy504.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy/Easy504.cpp -o CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy504.cpp.s
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Medium2100.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
-CMakeFiles/Daily_one_problem.dir/LeetCode/Medium2100.cpp.o: ../LeetCode/Medium2100.cpp
-CMakeFiles/Daily_one_problem.dir/LeetCode/Medium2100.cpp.o: CMakeFiles/Daily_one_problem.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Daily_one_problem.dir/LeetCode/Medium2100.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Daily_one_problem.dir/LeetCode/Medium2100.cpp.o -MF CMakeFiles/Daily_one_problem.dir/LeetCode/Medium2100.cpp.o.d -o CMakeFiles/Daily_one_problem.dir/LeetCode/Medium2100.cpp.o -c /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium2100.cpp
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2100.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2100.cpp.o: ../LeetCode/Medium/Medium2100.cpp
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2100.cpp.o: CMakeFiles/Daily_one_problem.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2100.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2100.cpp.o -MF CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2100.cpp.o.d -o CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2100.cpp.o -c /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium2100.cpp
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Medium2100.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/LeetCode/Medium2100.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium2100.cpp > CMakeFiles/Daily_one_problem.dir/LeetCode/Medium2100.cpp.i
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2100.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2100.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium2100.cpp > CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2100.cpp.i
 
-CMakeFiles/Daily_one_problem.dir/LeetCode/Medium2100.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/LeetCode/Medium2100.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium2100.cpp -o CMakeFiles/Daily_one_problem.dir/LeetCode/Medium2100.cpp.s
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2100.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2100.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium2100.cpp -o CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2100.cpp.s
+
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium6.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium6.cpp.o: ../LeetCode/Medium/Medium6.cpp
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium6.cpp.o: CMakeFiles/Daily_one_problem.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium6.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium6.cpp.o -MF CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium6.cpp.o.d -o CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium6.cpp.o -c /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium6.cpp
+
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium6.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium6.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium6.cpp > CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium6.cpp.i
+
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium6.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium6.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium6.cpp -o CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium6.cpp.s
+
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2055.cpp.o: CMakeFiles/Daily_one_problem.dir/flags.make
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2055.cpp.o: ../LeetCode/Medium/Medium2055.cpp
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2055.cpp.o: CMakeFiles/Daily_one_problem.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2055.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2055.cpp.o -MF CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2055.cpp.o.d -o CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2055.cpp.o -c /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium2055.cpp
+
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2055.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2055.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium2055.cpp > CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2055.cpp.i
+
+CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2055.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2055.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium2055.cpp -o CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2055.cpp.s
 
 # Object files for target Daily_one_problem
 Daily_one_problem_OBJECTS = \
-"CMakeFiles/Daily_one_problem.dir/LeetCode/Easy717.cpp.o" \
-"CMakeFiles/Daily_one_problem.dir/LeetCode/Mid838.cpp.o" \
-"CMakeFiles/Daily_one_problem.dir/LeetCode/Hard1994.cpp.o" \
-"CMakeFiles/Daily_one_problem.dir/LeetCode/Easy917.cpp.o" \
-"CMakeFiles/Daily_one_problem.dir/LeetCode/Medium1706.cpp.o" \
-"CMakeFiles/Daily_one_problem.dir/LeetCode/Medium537.cpp.o" \
-"CMakeFiles/Daily_one_problem.dir/LeetCode/Medium553.cpp.o" \
-"CMakeFiles/Daily_one_problem.dir/LeetCode/Hard564.cpp.o" \
-"CMakeFiles/Daily_one_problem.dir/LeetCode/Easy258.cpp.o" \
-"CMakeFiles/Daily_one_problem.dir/LeetCode/Easy504.cpp.o" \
-"CMakeFiles/Daily_one_problem.dir/LeetCode/Medium2100.cpp.o"
+"CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy717.cpp.o" \
+"CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium838.cpp.o" \
+"CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard1994.cpp.o" \
+"CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy917.cpp.o" \
+"CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium1706.cpp.o" \
+"CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium537.cpp.o" \
+"CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium553.cpp.o" \
+"CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard564.cpp.o" \
+"CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy258.cpp.o" \
+"CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy504.cpp.o" \
+"CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2100.cpp.o" \
+"CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium6.cpp.o" \
+"CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2055.cpp.o"
 
 # External object files for target Daily_one_problem
 Daily_one_problem_EXTERNAL_OBJECTS =
 
-Daily_one_problem: CMakeFiles/Daily_one_problem.dir/LeetCode/Easy717.cpp.o
-Daily_one_problem: CMakeFiles/Daily_one_problem.dir/LeetCode/Mid838.cpp.o
-Daily_one_problem: CMakeFiles/Daily_one_problem.dir/LeetCode/Hard1994.cpp.o
-Daily_one_problem: CMakeFiles/Daily_one_problem.dir/LeetCode/Easy917.cpp.o
-Daily_one_problem: CMakeFiles/Daily_one_problem.dir/LeetCode/Medium1706.cpp.o
-Daily_one_problem: CMakeFiles/Daily_one_problem.dir/LeetCode/Medium537.cpp.o
-Daily_one_problem: CMakeFiles/Daily_one_problem.dir/LeetCode/Medium553.cpp.o
-Daily_one_problem: CMakeFiles/Daily_one_problem.dir/LeetCode/Hard564.cpp.o
-Daily_one_problem: CMakeFiles/Daily_one_problem.dir/LeetCode/Easy258.cpp.o
-Daily_one_problem: CMakeFiles/Daily_one_problem.dir/LeetCode/Easy504.cpp.o
-Daily_one_problem: CMakeFiles/Daily_one_problem.dir/LeetCode/Medium2100.cpp.o
+Daily_one_problem: CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy717.cpp.o
+Daily_one_problem: CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium838.cpp.o
+Daily_one_problem: CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard1994.cpp.o
+Daily_one_problem: CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy917.cpp.o
+Daily_one_problem: CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium1706.cpp.o
+Daily_one_problem: CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium537.cpp.o
+Daily_one_problem: CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium553.cpp.o
+Daily_one_problem: CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard564.cpp.o
+Daily_one_problem: CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy258.cpp.o
+Daily_one_problem: CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy504.cpp.o
+Daily_one_problem: CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2100.cpp.o
+Daily_one_problem: CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium6.cpp.o
+Daily_one_problem: CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2055.cpp.o
 Daily_one_problem: CMakeFiles/Daily_one_problem.dir/build.make
 Daily_one_problem: CMakeFiles/Daily_one_problem.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable Daily_one_problem"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable Daily_one_problem"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Daily_one_problem.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
