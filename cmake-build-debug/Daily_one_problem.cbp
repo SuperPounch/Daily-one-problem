@@ -78,6 +78,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/Least_zero.cpp">
+			<Option target="Daily_one_problem"/>
+		</Unit>
 		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy/Easy258.cpp">
 			<Option target="Daily_one_problem"/>
 		</Unit>
@@ -106,6 +109,9 @@
 			<Option target="Daily_one_problem"/>
 		</Unit>
 		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium2100.cpp">
+			<Option target="Daily_one_problem"/>
+		</Unit>
+		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium393.cpp">
 			<Option target="Daily_one_problem"/>
 		</Unit>
 		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium537.cpp">

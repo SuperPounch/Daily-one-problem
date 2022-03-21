@@ -129,6 +129,30 @@ Daily_one_problem/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/build
 .PHONY : Daily_one_problem/fast
 
+Least_zero.o: Least_zero.cpp.o
+.PHONY : Least_zero.o
+
+# target to build an object file
+Least_zero.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/Least_zero.cpp.o
+.PHONY : Least_zero.cpp.o
+
+Least_zero.i: Least_zero.cpp.i
+.PHONY : Least_zero.i
+
+# target to preprocess a source file
+Least_zero.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/Least_zero.cpp.i
+.PHONY : Least_zero.cpp.i
+
+Least_zero.s: Least_zero.cpp.s
+.PHONY : Least_zero.s
+
+# target to generate assembly for a file
+Least_zero.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/Least_zero.cpp.s
+.PHONY : Least_zero.cpp.s
+
 LeetCode/Easy/Easy258.o: LeetCode/Easy/Easy258.cpp.o
 .PHONY : LeetCode/Easy/Easy258.o
 
@@ -369,6 +393,30 @@ LeetCode/Medium/Medium2100.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2100.cpp.s
 .PHONY : LeetCode/Medium/Medium2100.cpp.s
 
+LeetCode/Medium/Medium393.o: LeetCode/Medium/Medium393.cpp.o
+.PHONY : LeetCode/Medium/Medium393.o
+
+# target to build an object file
+LeetCode/Medium/Medium393.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium393.cpp.o
+.PHONY : LeetCode/Medium/Medium393.cpp.o
+
+LeetCode/Medium/Medium393.i: LeetCode/Medium/Medium393.cpp.i
+.PHONY : LeetCode/Medium/Medium393.i
+
+# target to preprocess a source file
+LeetCode/Medium/Medium393.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium393.cpp.i
+.PHONY : LeetCode/Medium/Medium393.cpp.i
+
+LeetCode/Medium/Medium393.s: LeetCode/Medium/Medium393.cpp.s
+.PHONY : LeetCode/Medium/Medium393.s
+
+# target to generate assembly for a file
+LeetCode/Medium/Medium393.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium393.cpp.s
+.PHONY : LeetCode/Medium/Medium393.cpp.s
+
 LeetCode/Medium/Medium537.o: LeetCode/Medium/Medium537.cpp.o
 .PHONY : LeetCode/Medium/Medium537.o
 
@@ -474,6 +522,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Daily_one_problem"
+	@echo "... Least_zero.o"
+	@echo "... Least_zero.i"
+	@echo "... Least_zero.s"
 	@echo "... LeetCode/Easy/Easy258.o"
 	@echo "... LeetCode/Easy/Easy258.i"
 	@echo "... LeetCode/Easy/Easy258.s"
@@ -504,6 +555,9 @@ help:
 	@echo "... LeetCode/Medium/Medium2100.o"
 	@echo "... LeetCode/Medium/Medium2100.i"
 	@echo "... LeetCode/Medium/Medium2100.s"
+	@echo "... LeetCode/Medium/Medium393.o"
+	@echo "... LeetCode/Medium/Medium393.i"
+	@echo "... LeetCode/Medium/Medium393.s"
 	@echo "... LeetCode/Medium/Medium537.o"
 	@echo "... LeetCode/Medium/Medium537.i"
 	@echo "... LeetCode/Medium/Medium537.s"
