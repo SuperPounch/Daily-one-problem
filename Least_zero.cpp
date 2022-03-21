@@ -2,8 +2,8 @@
 // Created by 李啸 on 2022/3/15.
 //
 #include <stdio.h>
-#include <stdlib.h>
 #include <cmath>
+#include "bits/stdc++.h"
 
 int anlz_byte_detected(int src_byte) {
     int lsb_detected = 0;
