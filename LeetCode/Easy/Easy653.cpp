@@ -16,7 +16,7 @@ struct TreeNode {
 
     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
 };
-
+//方法1：深度优先搜索+哈希表，还有法二（广度优先+哈希表）法三（深度优先+中序遍历+双指针）//并没有写哦！！！！！
 class Solution {
 public:
     //创建哈希表
@@ -28,8 +28,8 @@ public:
         if(hashtable.count(k-root->val))
             return true;
         //如果hash表里没有对应的值，就把当前节点值放入表中
+
         hashtable.insert(root->val);
         return findTarget(root->left,k)|| findTarget(root->right,k);
     }
 };
-
