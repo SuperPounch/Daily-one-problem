@@ -2,6 +2,7 @@
 // Created by 李啸 on 2022/3/7.
 //7进制
 //output is string
+#include <algorithm>
 #include "iostream"
 using namespace std;
 class Solution {
