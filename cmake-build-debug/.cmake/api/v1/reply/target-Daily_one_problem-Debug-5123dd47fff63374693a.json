@@ -52,7 +52,9 @@
 			},
 			"sourceIndexes" : 
 			[
-				0
+				0,
+				1,
+				2
 			]
 		}
 	],
@@ -85,7 +87,9 @@
 			"name" : "Source Files",
 			"sourceIndexes" : 
 			[
-				0
+				0,
+				1,
+				2
 			]
 		}
 	],
@@ -95,6 +99,18 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "LeetCode/Medium/Medium2024.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "LeetCode/Easy/Easy693.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "LeetCode/Hard/Hard1606.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

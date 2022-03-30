@@ -129,6 +129,54 @@ Daily_one_problem/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/build
 .PHONY : Daily_one_problem/fast
 
+LeetCode/Easy/Easy693.o: LeetCode/Easy/Easy693.cpp.o
+.PHONY : LeetCode/Easy/Easy693.o
+
+# target to build an object file
+LeetCode/Easy/Easy693.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy693.cpp.o
+.PHONY : LeetCode/Easy/Easy693.cpp.o
+
+LeetCode/Easy/Easy693.i: LeetCode/Easy/Easy693.cpp.i
+.PHONY : LeetCode/Easy/Easy693.i
+
+# target to preprocess a source file
+LeetCode/Easy/Easy693.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy693.cpp.i
+.PHONY : LeetCode/Easy/Easy693.cpp.i
+
+LeetCode/Easy/Easy693.s: LeetCode/Easy/Easy693.cpp.s
+.PHONY : LeetCode/Easy/Easy693.s
+
+# target to generate assembly for a file
+LeetCode/Easy/Easy693.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy693.cpp.s
+.PHONY : LeetCode/Easy/Easy693.cpp.s
+
+LeetCode/Hard/Hard1606.o: LeetCode/Hard/Hard1606.cpp.o
+.PHONY : LeetCode/Hard/Hard1606.o
+
+# target to build an object file
+LeetCode/Hard/Hard1606.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard1606.cpp.o
+.PHONY : LeetCode/Hard/Hard1606.cpp.o
+
+LeetCode/Hard/Hard1606.i: LeetCode/Hard/Hard1606.cpp.i
+.PHONY : LeetCode/Hard/Hard1606.i
+
+# target to preprocess a source file
+LeetCode/Hard/Hard1606.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard1606.cpp.i
+.PHONY : LeetCode/Hard/Hard1606.cpp.i
+
+LeetCode/Hard/Hard1606.s: LeetCode/Hard/Hard1606.cpp.s
+.PHONY : LeetCode/Hard/Hard1606.s
+
+# target to generate assembly for a file
+LeetCode/Hard/Hard1606.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard1606.cpp.s
+.PHONY : LeetCode/Hard/Hard1606.cpp.s
+
 LeetCode/Medium/Medium2024.o: LeetCode/Medium/Medium2024.cpp.o
 .PHONY : LeetCode/Medium/Medium2024.o
 
@@ -162,6 +210,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Daily_one_problem"
+	@echo "... LeetCode/Easy/Easy693.o"
+	@echo "... LeetCode/Easy/Easy693.i"
+	@echo "... LeetCode/Easy/Easy693.s"
+	@echo "... LeetCode/Hard/Hard1606.o"
+	@echo "... LeetCode/Hard/Hard1606.i"
+	@echo "... LeetCode/Hard/Hard1606.s"
 	@echo "... LeetCode/Medium/Medium2024.o"
 	@echo "... LeetCode/Medium/Medium2024.i"
 	@echo "... LeetCode/Medium/Medium2024.s"
