@@ -3,6 +3,7 @@
 //给定范围，输出所有的自除数
 #include "iostream"
 #include "vector"
+//#include "math.h"
 
 using namespace std;
 
