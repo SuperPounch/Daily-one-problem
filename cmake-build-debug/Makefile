@@ -153,6 +153,30 @@ LeetCode/Easy/Easy693.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy693.cpp.s
 .PHONY : LeetCode/Easy/Easy693.cpp.s
 
+LeetCode/Easy/Easy728.o: LeetCode/Easy/Easy728.cpp.o
+.PHONY : LeetCode/Easy/Easy728.o
+
+# target to build an object file
+LeetCode/Easy/Easy728.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy728.cpp.o
+.PHONY : LeetCode/Easy/Easy728.cpp.o
+
+LeetCode/Easy/Easy728.i: LeetCode/Easy/Easy728.cpp.i
+.PHONY : LeetCode/Easy/Easy728.i
+
+# target to preprocess a source file
+LeetCode/Easy/Easy728.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy728.cpp.i
+.PHONY : LeetCode/Easy/Easy728.cpp.i
+
+LeetCode/Easy/Easy728.s: LeetCode/Easy/Easy728.cpp.s
+.PHONY : LeetCode/Easy/Easy728.s
+
+# target to generate assembly for a file
+LeetCode/Easy/Easy728.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy728.cpp.s
+.PHONY : LeetCode/Easy/Easy728.cpp.s
+
 LeetCode/Hard/Hard1606.o: LeetCode/Hard/Hard1606.cpp.o
 .PHONY : LeetCode/Hard/Hard1606.o
 
@@ -213,6 +237,9 @@ help:
 	@echo "... LeetCode/Easy/Easy693.o"
 	@echo "... LeetCode/Easy/Easy693.i"
 	@echo "... LeetCode/Easy/Easy693.s"
+	@echo "... LeetCode/Easy/Easy728.o"
+	@echo "... LeetCode/Easy/Easy728.i"
+	@echo "... LeetCode/Easy/Easy728.s"
 	@echo "... LeetCode/Hard/Hard1606.o"
 	@echo "... LeetCode/Hard/Hard1606.i"
 	@echo "... LeetCode/Hard/Hard1606.s"
