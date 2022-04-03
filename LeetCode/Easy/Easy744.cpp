@@ -20,6 +20,6 @@ public:
             return target < letters.back() ? *upper_bound(letters.begin(), letters.end() - 1, target) : letters[0];
         }
         //upper_bound 函数
-    };
+
 };
 
