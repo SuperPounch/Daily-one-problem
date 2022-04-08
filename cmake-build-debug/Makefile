@@ -129,101 +129,53 @@ Daily_one_problem/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/build
 .PHONY : Daily_one_problem/fast
 
-LeetCode/Easy/Easy693.o: LeetCode/Easy/Easy693.cpp.o
-.PHONY : LeetCode/Easy/Easy693.o
+LeetCode/Easy/Easy191.o: LeetCode/Easy/Easy191.cpp.o
+.PHONY : LeetCode/Easy/Easy191.o
 
 # target to build an object file
-LeetCode/Easy/Easy693.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy693.cpp.o
-.PHONY : LeetCode/Easy/Easy693.cpp.o
+LeetCode/Easy/Easy191.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy191.cpp.o
+.PHONY : LeetCode/Easy/Easy191.cpp.o
 
-LeetCode/Easy/Easy693.i: LeetCode/Easy/Easy693.cpp.i
-.PHONY : LeetCode/Easy/Easy693.i
+LeetCode/Easy/Easy191.i: LeetCode/Easy/Easy191.cpp.i
+.PHONY : LeetCode/Easy/Easy191.i
 
 # target to preprocess a source file
-LeetCode/Easy/Easy693.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy693.cpp.i
-.PHONY : LeetCode/Easy/Easy693.cpp.i
+LeetCode/Easy/Easy191.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy191.cpp.i
+.PHONY : LeetCode/Easy/Easy191.cpp.i
 
-LeetCode/Easy/Easy693.s: LeetCode/Easy/Easy693.cpp.s
-.PHONY : LeetCode/Easy/Easy693.s
+LeetCode/Easy/Easy191.s: LeetCode/Easy/Easy191.cpp.s
+.PHONY : LeetCode/Easy/Easy191.s
 
 # target to generate assembly for a file
-LeetCode/Easy/Easy693.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy693.cpp.s
-.PHONY : LeetCode/Easy/Easy693.cpp.s
+LeetCode/Easy/Easy191.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy191.cpp.s
+.PHONY : LeetCode/Easy/Easy191.cpp.s
 
-LeetCode/Easy/Easy728.o: LeetCode/Easy/Easy728.cpp.o
-.PHONY : LeetCode/Easy/Easy728.o
+LeetCode/Easy/Easy762.o: LeetCode/Easy/Easy762.cpp.o
+.PHONY : LeetCode/Easy/Easy762.o
 
 # target to build an object file
-LeetCode/Easy/Easy728.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy728.cpp.o
-.PHONY : LeetCode/Easy/Easy728.cpp.o
+LeetCode/Easy/Easy762.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy762.cpp.o
+.PHONY : LeetCode/Easy/Easy762.cpp.o
 
-LeetCode/Easy/Easy728.i: LeetCode/Easy/Easy728.cpp.i
-.PHONY : LeetCode/Easy/Easy728.i
-
-# target to preprocess a source file
-LeetCode/Easy/Easy728.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy728.cpp.i
-.PHONY : LeetCode/Easy/Easy728.cpp.i
-
-LeetCode/Easy/Easy728.s: LeetCode/Easy/Easy728.cpp.s
-.PHONY : LeetCode/Easy/Easy728.s
-
-# target to generate assembly for a file
-LeetCode/Easy/Easy728.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy728.cpp.s
-.PHONY : LeetCode/Easy/Easy728.cpp.s
-
-LeetCode/Hard/Hard1606.o: LeetCode/Hard/Hard1606.cpp.o
-.PHONY : LeetCode/Hard/Hard1606.o
-
-# target to build an object file
-LeetCode/Hard/Hard1606.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard1606.cpp.o
-.PHONY : LeetCode/Hard/Hard1606.cpp.o
-
-LeetCode/Hard/Hard1606.i: LeetCode/Hard/Hard1606.cpp.i
-.PHONY : LeetCode/Hard/Hard1606.i
+LeetCode/Easy/Easy762.i: LeetCode/Easy/Easy762.cpp.i
+.PHONY : LeetCode/Easy/Easy762.i
 
 # target to preprocess a source file
-LeetCode/Hard/Hard1606.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard1606.cpp.i
-.PHONY : LeetCode/Hard/Hard1606.cpp.i
+LeetCode/Easy/Easy762.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy762.cpp.i
+.PHONY : LeetCode/Easy/Easy762.cpp.i
 
-LeetCode/Hard/Hard1606.s: LeetCode/Hard/Hard1606.cpp.s
-.PHONY : LeetCode/Hard/Hard1606.s
-
-# target to generate assembly for a file
-LeetCode/Hard/Hard1606.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard1606.cpp.s
-.PHONY : LeetCode/Hard/Hard1606.cpp.s
-
-LeetCode/Medium/Medium2024.o: LeetCode/Medium/Medium2024.cpp.o
-.PHONY : LeetCode/Medium/Medium2024.o
-
-# target to build an object file
-LeetCode/Medium/Medium2024.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2024.cpp.o
-.PHONY : LeetCode/Medium/Medium2024.cpp.o
-
-LeetCode/Medium/Medium2024.i: LeetCode/Medium/Medium2024.cpp.i
-.PHONY : LeetCode/Medium/Medium2024.i
-
-# target to preprocess a source file
-LeetCode/Medium/Medium2024.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2024.cpp.i
-.PHONY : LeetCode/Medium/Medium2024.cpp.i
-
-LeetCode/Medium/Medium2024.s: LeetCode/Medium/Medium2024.cpp.s
-.PHONY : LeetCode/Medium/Medium2024.s
+LeetCode/Easy/Easy762.s: LeetCode/Easy/Easy762.cpp.s
+.PHONY : LeetCode/Easy/Easy762.s
 
 # target to generate assembly for a file
-LeetCode/Medium/Medium2024.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2024.cpp.s
-.PHONY : LeetCode/Medium/Medium2024.cpp.s
+LeetCode/Easy/Easy762.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy762.cpp.s
+.PHONY : LeetCode/Easy/Easy762.cpp.s
 
 # Help Target
 help:
@@ -234,18 +186,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Daily_one_problem"
-	@echo "... LeetCode/Easy/Easy693.o"
-	@echo "... LeetCode/Easy/Easy693.i"
-	@echo "... LeetCode/Easy/Easy693.s"
-	@echo "... LeetCode/Easy/Easy728.o"
-	@echo "... LeetCode/Easy/Easy728.i"
-	@echo "... LeetCode/Easy/Easy728.s"
-	@echo "... LeetCode/Hard/Hard1606.o"
-	@echo "... LeetCode/Hard/Hard1606.i"
-	@echo "... LeetCode/Hard/Hard1606.s"
-	@echo "... LeetCode/Medium/Medium2024.o"
-	@echo "... LeetCode/Medium/Medium2024.i"
-	@echo "... LeetCode/Medium/Medium2024.s"
+	@echo "... LeetCode/Easy/Easy191.o"
+	@echo "... LeetCode/Easy/Easy191.i"
+	@echo "... LeetCode/Easy/Easy191.s"
+	@echo "... LeetCode/Easy/Easy762.o"
+	@echo "... LeetCode/Easy/Easy762.i"
+	@echo "... LeetCode/Easy/Easy762.s"
 .PHONY : help
 
 

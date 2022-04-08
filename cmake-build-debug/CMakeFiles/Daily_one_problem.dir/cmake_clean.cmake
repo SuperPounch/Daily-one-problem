@@ -1,12 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy693.cpp.o"
-  "CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy693.cpp.o.d"
-  "CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy728.cpp.o"
-  "CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy728.cpp.o.d"
-  "CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard1606.cpp.o"
-  "CMakeFiles/Daily_one_problem.dir/LeetCode/Hard/Hard1606.cpp.o.d"
-  "CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2024.cpp.o"
-  "CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium2024.cpp.o.d"
+  "CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy191.cpp.o"
+  "CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy191.cpp.o.d"
+  "CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy762.cpp.o"
+  "CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy762.cpp.o.d"
   "Daily_one_problem"
   "Daily_one_problem.pdb"
 )
