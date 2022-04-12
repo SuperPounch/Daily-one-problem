@@ -90,10 +90,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy/Easy191.cpp">
-			<Option target="Daily_one_problem"/>
-		</Unit>
-		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy/Easy762.cpp">
+		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy/Easy804.cpp">
 			<Option target="Daily_one_problem"/>
 		</Unit>
 		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/CMakeLists.txt">
