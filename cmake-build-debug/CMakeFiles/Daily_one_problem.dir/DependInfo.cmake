@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy/Easy804.cpp" "CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy804.cpp.o" "gcc" "CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy804.cpp.o.d"
+  "/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy/Easy821.cpp" "CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy821.cpp.o" "gcc" "CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy821.cpp.o.d"
   )
 
 # Targets to which this target links.

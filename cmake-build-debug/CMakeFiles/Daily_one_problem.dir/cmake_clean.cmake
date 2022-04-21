@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy804.cpp.o"
-  "CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy804.cpp.o.d"
+  "CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy821.cpp.o"
+  "CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy821.cpp.o.d"
   "Daily_one_problem"
   "Daily_one_problem.pdb"
 )
