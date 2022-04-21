@@ -15,6 +15,7 @@ public:
             maxWealth = max(maxWealth, accumulate(account.begin(), account.end(), 0));
         }
         return maxWealth;
+//clion就没问题，pycharm就push不了
     }
 };
 
