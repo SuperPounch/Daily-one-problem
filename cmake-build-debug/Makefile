@@ -129,29 +129,29 @@ Daily_one_problem/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/build
 .PHONY : Daily_one_problem/fast
 
-LeetCode/Easy/Easy1592.o: LeetCode/Easy/Easy1592.cpp.o
-.PHONY : LeetCode/Easy/Easy1592.o
+LeetCode/Easy/Easy191.o: LeetCode/Easy/Easy191.cpp.o
+.PHONY : LeetCode/Easy/Easy191.o
 
 # target to build an object file
-LeetCode/Easy/Easy1592.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy1592.cpp.o
-.PHONY : LeetCode/Easy/Easy1592.cpp.o
+LeetCode/Easy/Easy191.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy191.cpp.o
+.PHONY : LeetCode/Easy/Easy191.cpp.o
 
-LeetCode/Easy/Easy1592.i: LeetCode/Easy/Easy1592.cpp.i
-.PHONY : LeetCode/Easy/Easy1592.i
+LeetCode/Easy/Easy191.i: LeetCode/Easy/Easy191.cpp.i
+.PHONY : LeetCode/Easy/Easy191.i
 
 # target to preprocess a source file
-LeetCode/Easy/Easy1592.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy1592.cpp.i
-.PHONY : LeetCode/Easy/Easy1592.cpp.i
+LeetCode/Easy/Easy191.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy191.cpp.i
+.PHONY : LeetCode/Easy/Easy191.cpp.i
 
-LeetCode/Easy/Easy1592.s: LeetCode/Easy/Easy1592.cpp.s
-.PHONY : LeetCode/Easy/Easy1592.s
+LeetCode/Easy/Easy191.s: LeetCode/Easy/Easy191.cpp.s
+.PHONY : LeetCode/Easy/Easy191.s
 
 # target to generate assembly for a file
-LeetCode/Easy/Easy1592.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy1592.cpp.s
-.PHONY : LeetCode/Easy/Easy1592.cpp.s
+LeetCode/Easy/Easy191.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy191.cpp.s
+.PHONY : LeetCode/Easy/Easy191.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Daily_one_problem"
-	@echo "... LeetCode/Easy/Easy1592.o"
-	@echo "... LeetCode/Easy/Easy1592.i"
-	@echo "... LeetCode/Easy/Easy1592.s"
+	@echo "... LeetCode/Easy/Easy191.o"
+	@echo "... LeetCode/Easy/Easy191.i"
+	@echo "... LeetCode/Easy/Easy191.s"
 .PHONY : help
 
 
