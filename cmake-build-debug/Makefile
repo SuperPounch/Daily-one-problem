@@ -129,29 +129,29 @@ Daily_one_problem/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/build
 .PHONY : Daily_one_problem/fast
 
-LeetCode/Easy/Easy191.o: LeetCode/Easy/Easy191.cpp.o
-.PHONY : LeetCode/Easy/Easy191.o
+LeetCode/Medium/Medium777.o: LeetCode/Medium/Medium777.cpp.o
+.PHONY : LeetCode/Medium/Medium777.o
 
 # target to build an object file
-LeetCode/Easy/Easy191.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy191.cpp.o
-.PHONY : LeetCode/Easy/Easy191.cpp.o
+LeetCode/Medium/Medium777.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium777.cpp.o
+.PHONY : LeetCode/Medium/Medium777.cpp.o
 
-LeetCode/Easy/Easy191.i: LeetCode/Easy/Easy191.cpp.i
-.PHONY : LeetCode/Easy/Easy191.i
+LeetCode/Medium/Medium777.i: LeetCode/Medium/Medium777.cpp.i
+.PHONY : LeetCode/Medium/Medium777.i
 
 # target to preprocess a source file
-LeetCode/Easy/Easy191.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy191.cpp.i
-.PHONY : LeetCode/Easy/Easy191.cpp.i
+LeetCode/Medium/Medium777.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium777.cpp.i
+.PHONY : LeetCode/Medium/Medium777.cpp.i
 
-LeetCode/Easy/Easy191.s: LeetCode/Easy/Easy191.cpp.s
-.PHONY : LeetCode/Easy/Easy191.s
+LeetCode/Medium/Medium777.s: LeetCode/Medium/Medium777.cpp.s
+.PHONY : LeetCode/Medium/Medium777.s
 
 # target to generate assembly for a file
-LeetCode/Easy/Easy191.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Easy/Easy191.cpp.s
-.PHONY : LeetCode/Easy/Easy191.cpp.s
+LeetCode/Medium/Medium777.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium777.cpp.s
+.PHONY : LeetCode/Medium/Medium777.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Daily_one_problem"
-	@echo "... LeetCode/Easy/Easy191.o"
-	@echo "... LeetCode/Easy/Easy191.i"
-	@echo "... LeetCode/Easy/Easy191.s"
+	@echo "... LeetCode/Medium/Medium777.o"
+	@echo "... LeetCode/Medium/Medium777.i"
+	@echo "... LeetCode/Medium/Medium777.s"
 .PHONY : help
 
 
