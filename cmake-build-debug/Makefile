@@ -129,29 +129,29 @@ Daily_one_problem/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/build
 .PHONY : Daily_one_problem/fast
 
-LeetCode/Medium/Medium777.o: LeetCode/Medium/Medium777.cpp.o
-.PHONY : LeetCode/Medium/Medium777.o
+LeetCode/Weekgame.o: LeetCode/Weekgame.cpp.o
+.PHONY : LeetCode/Weekgame.o
 
 # target to build an object file
-LeetCode/Medium/Medium777.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium777.cpp.o
-.PHONY : LeetCode/Medium/Medium777.cpp.o
+LeetCode/Weekgame.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Weekgame.cpp.o
+.PHONY : LeetCode/Weekgame.cpp.o
 
-LeetCode/Medium/Medium777.i: LeetCode/Medium/Medium777.cpp.i
-.PHONY : LeetCode/Medium/Medium777.i
+LeetCode/Weekgame.i: LeetCode/Weekgame.cpp.i
+.PHONY : LeetCode/Weekgame.i
 
 # target to preprocess a source file
-LeetCode/Medium/Medium777.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium777.cpp.i
-.PHONY : LeetCode/Medium/Medium777.cpp.i
+LeetCode/Weekgame.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Weekgame.cpp.i
+.PHONY : LeetCode/Weekgame.cpp.i
 
-LeetCode/Medium/Medium777.s: LeetCode/Medium/Medium777.cpp.s
-.PHONY : LeetCode/Medium/Medium777.s
+LeetCode/Weekgame.s: LeetCode/Weekgame.cpp.s
+.PHONY : LeetCode/Weekgame.s
 
 # target to generate assembly for a file
-LeetCode/Medium/Medium777.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium777.cpp.s
-.PHONY : LeetCode/Medium/Medium777.cpp.s
+LeetCode/Weekgame.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Weekgame.cpp.s
+.PHONY : LeetCode/Weekgame.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Daily_one_problem"
-	@echo "... LeetCode/Medium/Medium777.o"
-	@echo "... LeetCode/Medium/Medium777.i"
-	@echo "... LeetCode/Medium/Medium777.s"
+	@echo "... LeetCode/Weekgame.o"
+	@echo "... LeetCode/Weekgame.i"
+	@echo "... LeetCode/Weekgame.s"
 .PHONY : help
 
 
