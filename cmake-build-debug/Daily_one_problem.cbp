@@ -78,7 +78,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Weekgame.cpp">
+		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium1620.cpp">
 			<Option target="Daily_one_problem"/>
 		</Unit>
 		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/CMakeLists.txt">

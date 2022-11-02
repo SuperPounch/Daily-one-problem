@@ -129,29 +129,29 @@ Daily_one_problem/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/build
 .PHONY : Daily_one_problem/fast
 
-LeetCode/Weekgame.o: LeetCode/Weekgame.cpp.o
-.PHONY : LeetCode/Weekgame.o
+LeetCode/Medium/Medium1620.o: LeetCode/Medium/Medium1620.cpp.o
+.PHONY : LeetCode/Medium/Medium1620.o
 
 # target to build an object file
-LeetCode/Weekgame.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Weekgame.cpp.o
-.PHONY : LeetCode/Weekgame.cpp.o
+LeetCode/Medium/Medium1620.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium1620.cpp.o
+.PHONY : LeetCode/Medium/Medium1620.cpp.o
 
-LeetCode/Weekgame.i: LeetCode/Weekgame.cpp.i
-.PHONY : LeetCode/Weekgame.i
+LeetCode/Medium/Medium1620.i: LeetCode/Medium/Medium1620.cpp.i
+.PHONY : LeetCode/Medium/Medium1620.i
 
 # target to preprocess a source file
-LeetCode/Weekgame.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Weekgame.cpp.i
-.PHONY : LeetCode/Weekgame.cpp.i
+LeetCode/Medium/Medium1620.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium1620.cpp.i
+.PHONY : LeetCode/Medium/Medium1620.cpp.i
 
-LeetCode/Weekgame.s: LeetCode/Weekgame.cpp.s
-.PHONY : LeetCode/Weekgame.s
+LeetCode/Medium/Medium1620.s: LeetCode/Medium/Medium1620.cpp.s
+.PHONY : LeetCode/Medium/Medium1620.s
 
 # target to generate assembly for a file
-LeetCode/Weekgame.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Weekgame.cpp.s
-.PHONY : LeetCode/Weekgame.cpp.s
+LeetCode/Medium/Medium1620.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/LeetCode/Medium/Medium1620.cpp.s
+.PHONY : LeetCode/Medium/Medium1620.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Daily_one_problem"
-	@echo "... LeetCode/Weekgame.o"
-	@echo "... LeetCode/Weekgame.i"
-	@echo "... LeetCode/Weekgame.s"
+	@echo "... LeetCode/Medium/Medium1620.o"
+	@echo "... LeetCode/Medium/Medium1620.i"
+	@echo "... LeetCode/Medium/Medium1620.s"
 .PHONY : help
 
 

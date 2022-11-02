@@ -3,4 +3,4 @@ project(Daily_one_problem)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Daily_one_problem  LeetCode/Weekgame.cpp)
+add_executable(Daily_one_problem  LeetCode/Medium/Medium1620.cpp)
