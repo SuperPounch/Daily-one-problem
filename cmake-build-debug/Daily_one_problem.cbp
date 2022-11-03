@@ -17,6 +17,46 @@
 					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="Medium1620">
+				<Option output="/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/Medium1620" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 Medium1620"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Medium1620/fast">
+				<Option output="/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/Medium1620" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 Medium1620/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="rebuild_cache">
 				<Option working_dir="/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug"/>
 				<Option type="4"/>
@@ -37,8 +77,8 @@
 					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="Daily_one_problem">
-				<Option output="/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/Daily_one_problem" prefix_auto="0" extension_auto="0"/>
+			<Target title="Easy1668">
+				<Option output="/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/Easy1668" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -51,14 +91,14 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 Daily_one_problem"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 Easy1668"/>
 					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="Daily_one_problem/fast">
-				<Option output="/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/Daily_one_problem" prefix_auto="0" extension_auto="0"/>
+			<Target title="Easy1668/fast">
+				<Option output="/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/Easy1668" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -71,15 +111,18 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 Daily_one_problem/fast"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 Easy1668/fast"/>
 					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Easy/Easy1668.cpp">
+			<Option target="Easy1668"/>
+		</Unit>
 		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/LeetCode/Medium/Medium1620.cpp">
-			<Option target="Daily_one_problem"/>
+			<Option target="Medium1620"/>
 		</Unit>
 		<Unit filename="/Users/lx/CLionProjects/Daily-one-problem/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>

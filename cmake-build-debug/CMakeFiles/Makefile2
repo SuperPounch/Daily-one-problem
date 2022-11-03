@@ -63,7 +63,8 @@ CMAKE_BINARY_DIR = /Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/Daily_one_problem.dir/all
+all: CMakeFiles/Medium1620.dir/all
+all: CMakeFiles/Easy1668.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -71,34 +72,61 @@ preinstall:
 .PHONY : preinstall
 
 # The main recursive "clean" target.
-clean: CMakeFiles/Daily_one_problem.dir/clean
+clean: CMakeFiles/Medium1620.dir/clean
+clean: CMakeFiles/Easy1668.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/Daily_one_problem.dir
+# Target rules for target CMakeFiles/Medium1620.dir
 
 # All Build rule for target.
-CMakeFiles/Daily_one_problem.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target Daily_one_problem"
-.PHONY : CMakeFiles/Daily_one_problem.dir/all
+CMakeFiles/Medium1620.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Medium1620.dir/build.make CMakeFiles/Medium1620.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Medium1620.dir/build.make CMakeFiles/Medium1620.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=3,4 "Built target Medium1620"
+.PHONY : CMakeFiles/Medium1620.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/Daily_one_problem.dir/rule: cmake_check_build_system
+CMakeFiles/Medium1620.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Daily_one_problem.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Medium1620.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/Daily_one_problem.dir/rule
+.PHONY : CMakeFiles/Medium1620.dir/rule
 
 # Convenience name for target.
-Daily_one_problem: CMakeFiles/Daily_one_problem.dir/rule
-.PHONY : Daily_one_problem
+Medium1620: CMakeFiles/Medium1620.dir/rule
+.PHONY : Medium1620
 
 # clean rule for target.
-CMakeFiles/Daily_one_problem.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Daily_one_problem.dir/build.make CMakeFiles/Daily_one_problem.dir/clean
-.PHONY : CMakeFiles/Daily_one_problem.dir/clean
+CMakeFiles/Medium1620.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Medium1620.dir/build.make CMakeFiles/Medium1620.dir/clean
+.PHONY : CMakeFiles/Medium1620.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/Easy1668.dir
+
+# All Build rule for target.
+CMakeFiles/Easy1668.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Easy1668.dir/build.make CMakeFiles/Easy1668.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Easy1668.dir/build.make CMakeFiles/Easy1668.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target Easy1668"
+.PHONY : CMakeFiles/Easy1668.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/Easy1668.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Easy1668.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/Easy1668.dir/rule
+
+# Convenience name for target.
+Easy1668: CMakeFiles/Easy1668.dir/rule
+.PHONY : Easy1668
+
+# clean rule for target.
+CMakeFiles/Easy1668.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Easy1668.dir/build.make CMakeFiles/Easy1668.dir/clean
+.PHONY : CMakeFiles/Easy1668.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

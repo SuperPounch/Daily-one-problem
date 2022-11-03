@@ -1,3 +1,4 @@
+/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles/Medium1620.dir
 /Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 /Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles/Daily_one_problem.dir
+/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles/Easy1668.dir
