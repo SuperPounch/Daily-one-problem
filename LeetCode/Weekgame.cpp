@@ -5,7 +5,10 @@
 #include <iostream>
 #include <algorithm>
 #include <vector>
+#include "math.h"
+#include "queue"
 #include "unordered_set"
+
 using namespace std;
 
 class Solution {
@@ -29,6 +32,43 @@ public:
             return false;
         return true;//有交集
     }
+
+    //11.6 318场
+public:
+    vector<int> applyOperations(vector<int> &nums) {
+        int cnt0 = 0, n = nums.size();
+        vector<int> nu;
+        for (int i = 0; i < n - 1; i++) {
+            //operation
+            if (nums[i] == nums[i + 1]) {
+                nums[i] *= 2;
+                nums[i + 1] = 0;
+                if (nums[i] == 0) {
+                    cnt0++;
+                } else {
+                    nu.push_back(nums[i]);
+                }
+            } else {
+                if (nums[i] == 0) {
+                    cnt0++;
+                } else {
+                    nu.push_back(nums[i]);
+                }
+            }
+        }
+        if (nums[n - 1] != 0) {
+            nu.push_back(nums[n - 1]);
+        } else {
+            cnt0++;
+        }
+        cout << cnt0;
+        for (int i = 0; i < cnt0; i++) {
+            nu.push_back(0);
+        }
+        return nu;
+    }
+
+
 
 };
 

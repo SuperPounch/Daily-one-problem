@@ -130,6 +130,19 @@ Medium1620/fast:
 .PHONY : Medium1620/fast
 
 #=============================================================================
+# Target rules for targets named Weekgame
+
+# Build rule for target.
+Weekgame: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Weekgame
+.PHONY : Weekgame
+
+# fast build rule for target.
+Weekgame/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Weekgame.dir/build.make CMakeFiles/Weekgame.dir/build
+.PHONY : Weekgame/fast
+
+#=============================================================================
 # Target rules for targets named Easy1668
 
 # Build rule for target.
@@ -190,6 +203,30 @@ LeetCode/Medium/Medium1620.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Medium1620.dir/build.make CMakeFiles/Medium1620.dir/LeetCode/Medium/Medium1620.cpp.s
 .PHONY : LeetCode/Medium/Medium1620.cpp.s
 
+LeetCode/Weekgame.o: LeetCode/Weekgame.cpp.o
+.PHONY : LeetCode/Weekgame.o
+
+# target to build an object file
+LeetCode/Weekgame.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Weekgame.dir/build.make CMakeFiles/Weekgame.dir/LeetCode/Weekgame.cpp.o
+.PHONY : LeetCode/Weekgame.cpp.o
+
+LeetCode/Weekgame.i: LeetCode/Weekgame.cpp.i
+.PHONY : LeetCode/Weekgame.i
+
+# target to preprocess a source file
+LeetCode/Weekgame.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Weekgame.dir/build.make CMakeFiles/Weekgame.dir/LeetCode/Weekgame.cpp.i
+.PHONY : LeetCode/Weekgame.cpp.i
+
+LeetCode/Weekgame.s: LeetCode/Weekgame.cpp.s
+.PHONY : LeetCode/Weekgame.s
+
+# target to generate assembly for a file
+LeetCode/Weekgame.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Weekgame.dir/build.make CMakeFiles/Weekgame.dir/LeetCode/Weekgame.cpp.s
+.PHONY : LeetCode/Weekgame.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -200,12 +237,16 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Easy1668"
 	@echo "... Medium1620"
+	@echo "... Weekgame"
 	@echo "... LeetCode/Easy/Easy1668.o"
 	@echo "... LeetCode/Easy/Easy1668.i"
 	@echo "... LeetCode/Easy/Easy1668.s"
 	@echo "... LeetCode/Medium/Medium1620.o"
 	@echo "... LeetCode/Medium/Medium1620.i"
 	@echo "... LeetCode/Medium/Medium1620.s"
+	@echo "... LeetCode/Weekgame.o"
+	@echo "... LeetCode/Weekgame.i"
+	@echo "... LeetCode/Weekgame.s"
 .PHONY : help
 
 
