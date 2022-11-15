@@ -1,5 +1,7 @@
-/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles/Medium1620.dir
-/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 /Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles/Easy.dir
+/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles/Medium.dir
+/Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles/Medium1620.dir
 /Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles/Weekgame.dir
 /Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug/CMakeFiles/Easy1668.dir

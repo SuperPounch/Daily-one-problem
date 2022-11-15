@@ -50,6 +50,8 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
+  "CMakeFiles/Easy.dir/DependInfo.cmake"
+  "CMakeFiles/Medium.dir/DependInfo.cmake"
   "CMakeFiles/Medium1620.dir/DependInfo.cmake"
   "CMakeFiles/Weekgame.dir/DependInfo.cmake"
   "CMakeFiles/Easy1668.dir/DependInfo.cmake"

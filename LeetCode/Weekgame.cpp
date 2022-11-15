@@ -11,7 +11,7 @@
 
 using namespace std;
 
-class Solution {
+class Solution1 {
 public:
     bool haveConflict(vector<string> &event1, vector<string> &event2) {
         string a1 = event1[0].substr(0, 2);
@@ -68,14 +68,100 @@ public:
         return nu;
     }
 
-
+    int countConsistentStrings(string allowed, vector<string> &words) {
+        int n = allowed.length();
+        int ans = 0;
+        unordered_set<char> s;
+        for (int i = 0; i < n; i++) {
+            s.emplace(allowed[i]);
+        }
+        for (int i = 0; i < words.size(); i++) {
+            bool flag = true;
+            for (int j = 0; j < words[i].length(); j++) {
+                if (s.count(words[i][j]) == 0) {
+                    flag = false;
+                    break;
+                }
+            }
+            if (flag)
+                ans++;
+        }
+        return ans;
+    }
 
 };
 
-int main() {
-    Solution s;
-    //1
-    vector<string> event1 = {"01:15", "02:00"}, event2 = {"02:00", "03:00"};
-    s.haveConflict(event1, event2);
+class Solution {
+    const int MOD = 1e9 + 7;
+public:
+    int distinctAverages(vector<int> &nums) {
+        unordered_set<double> average;
+        int len = nums.size();
+        sort(nums.begin(), nums.begin() + len);
+        for (int i = 0; i < len / 2; ++i) {
+            double ave = (double) (nums[i] + nums[len - 1 - i]) / 2;
+            cout << "ave=" << ave << " ";
+            average.emplace(ave);
+        }
+        return average.size();
+    }
 
+    int countGoodStrings(int low, int high, int zero, int one) {
+        int start_0=zero,start_1=one;
+        queue<int> queue1;
+        queue1.push(start_0),queue1.push(start_1);
+        //start
+        int  ans = 0;
+        while(!queue1.empty()) {
+            int i = queue1.front();
+            if(i>=low&&i<=high){
+                ans =(ans+1)%MOD;
+            }
+            queue1.pop();
+            if(i+zero<=high){
+                queue1.push(i+zero);
+            }
+            if(i+one<=high){
+                queue1.push(i+one);
+            }
+        }
+        pow(1,2);
+        return ans;
+    }
+};
+class Solution319 {
+public:
+    int subarrayLCM(vector<int>& nums, int k) {
+        int n = nums.size();
+        //vector<vector<int>> dp(n,vector<int>(n,0));//记录i-j的子数组的最小公倍数
+
+        deque<int> cur;
+        //每次找到一个完整的子数组
+        for(int i = 0; i < n; ++i){
+            if(k/nums[i]==0){
+
+            }
+        }
+
+    }
+
+};
+int main() {
+    Solution s12;
+    vector<int> nums = {9, 5, 7, 8, 7, 9, 8, 2, 0, 7};
+    string t = "";
+    t+="0";
+    cout<<t<<endl;
+    t+="1";
+    cout<<t;
+    //cout << "ans=" << s12.distinctAverages(nums);
+
+    //1
+    Solution1 s;
+    vector<string> event1 = {"01:15", "02:00"}, event2 = {"02:00", "03:00"};
+    //s.haveConflict(event1, event2);
+    //
+    string allowed = "ab";
+    vector<string> words = {"ad", "bd", "aaab", "baa", "badab"};
+    //s.countConsistentStrings(allowed, words);
 }

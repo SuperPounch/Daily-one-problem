@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$USER_HOME$/leetcode/leetcode/editor/cn/[790]多米诺和托米诺平铺.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/leetcode/leetcode/editor/cn/doc/content/[790]多米诺和托米诺平铺.md" />
+              <option name="frontendQuestionId" value="leetcode.cn790" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/leetcode/leetcode/editor/cn/[790]多米诺和托米诺平铺.cpp" />
+              <option name="titleSlug" value="domino-and-tromino-tiling" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/leetcode/leetcode/editor/cn/[791]自定义字符串排序.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/leetcode/leetcode/editor/cn/doc/content/[791]自定义字符串排序.md" />
+              <option name="frontendQuestionId" value="leetcode.cn791" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/leetcode/leetcode/editor/cn/[791]自定义字符串排序.cpp" />
+              <option name="titleSlug" value="custom-sort-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

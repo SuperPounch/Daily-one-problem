@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Medium1620.dir/LeetCode/Medium/Medium.cpp.o"
+  "CMakeFiles/Medium1620.dir/LeetCode/Medium/Medium.cpp.o.d"
   "CMakeFiles/Medium1620.dir/LeetCode/Medium/Medium1620.cpp.o"
   "CMakeFiles/Medium1620.dir/LeetCode/Medium/Medium1620.cpp.o.d"
   "Medium1620"

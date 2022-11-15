@@ -65,16 +65,6 @@ CMAKE_BINARY_DIR = /Users/lx/CLionProjects/Daily-one-problem/cmake-build-debug
 #=============================================================================
 # Targets provided globally by CMake.
 
-# Special rule for the target rebuild_cache
-rebuild_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
-.PHONY : rebuild_cache
-
-# Special rule for the target rebuild_cache
-rebuild_cache/fast: rebuild_cache
-.PHONY : rebuild_cache/fast
-
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
@@ -84,6 +74,16 @@ edit_cache:
 # Special rule for the target edit_cache
 edit_cache/fast: edit_cache
 .PHONY : edit_cache/fast
+
+# Special rule for the target rebuild_cache
+rebuild_cache:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
+	/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+.PHONY : rebuild_cache
+
+# Special rule for the target rebuild_cache
+rebuild_cache/fast: rebuild_cache
+.PHONY : rebuild_cache/fast
 
 # The main all target
 all: cmake_check_build_system
@@ -115,6 +115,32 @@ preinstall/fast:
 depend:
 	$(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
+
+#=============================================================================
+# Target rules for targets named Easy
+
+# Build rule for target.
+Easy: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Easy
+.PHONY : Easy
+
+# fast build rule for target.
+Easy/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Easy.dir/build.make CMakeFiles/Easy.dir/build
+.PHONY : Easy/fast
+
+#=============================================================================
+# Target rules for targets named Medium
+
+# Build rule for target.
+Medium: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Medium
+.PHONY : Medium
+
+# fast build rule for target.
+Medium/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Medium.dir/build.make CMakeFiles/Medium.dir/build
+.PHONY : Medium/fast
 
 #=============================================================================
 # Target rules for targets named Medium1620
@@ -155,6 +181,33 @@ Easy1668/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Easy1668.dir/build.make CMakeFiles/Easy1668.dir/build
 .PHONY : Easy1668/fast
 
+LeetCode/Easy/Easy.o: LeetCode/Easy/Easy.cpp.o
+.PHONY : LeetCode/Easy/Easy.o
+
+# target to build an object file
+LeetCode/Easy/Easy.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Easy.dir/build.make CMakeFiles/Easy.dir/LeetCode/Easy/Easy.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Easy1668.dir/build.make CMakeFiles/Easy1668.dir/LeetCode/Easy/Easy.cpp.o
+.PHONY : LeetCode/Easy/Easy.cpp.o
+
+LeetCode/Easy/Easy.i: LeetCode/Easy/Easy.cpp.i
+.PHONY : LeetCode/Easy/Easy.i
+
+# target to preprocess a source file
+LeetCode/Easy/Easy.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Easy.dir/build.make CMakeFiles/Easy.dir/LeetCode/Easy/Easy.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Easy1668.dir/build.make CMakeFiles/Easy1668.dir/LeetCode/Easy/Easy.cpp.i
+.PHONY : LeetCode/Easy/Easy.cpp.i
+
+LeetCode/Easy/Easy.s: LeetCode/Easy/Easy.cpp.s
+.PHONY : LeetCode/Easy/Easy.s
+
+# target to generate assembly for a file
+LeetCode/Easy/Easy.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Easy.dir/build.make CMakeFiles/Easy.dir/LeetCode/Easy/Easy.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Easy1668.dir/build.make CMakeFiles/Easy1668.dir/LeetCode/Easy/Easy.cpp.s
+.PHONY : LeetCode/Easy/Easy.cpp.s
+
 LeetCode/Easy/Easy1668.o: LeetCode/Easy/Easy1668.cpp.o
 .PHONY : LeetCode/Easy/Easy1668.o
 
@@ -178,6 +231,33 @@ LeetCode/Easy/Easy1668.s: LeetCode/Easy/Easy1668.cpp.s
 LeetCode/Easy/Easy1668.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Easy1668.dir/build.make CMakeFiles/Easy1668.dir/LeetCode/Easy/Easy1668.cpp.s
 .PHONY : LeetCode/Easy/Easy1668.cpp.s
+
+LeetCode/Medium/Medium.o: LeetCode/Medium/Medium.cpp.o
+.PHONY : LeetCode/Medium/Medium.o
+
+# target to build an object file
+LeetCode/Medium/Medium.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Medium.dir/build.make CMakeFiles/Medium.dir/LeetCode/Medium/Medium.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Medium1620.dir/build.make CMakeFiles/Medium1620.dir/LeetCode/Medium/Medium.cpp.o
+.PHONY : LeetCode/Medium/Medium.cpp.o
+
+LeetCode/Medium/Medium.i: LeetCode/Medium/Medium.cpp.i
+.PHONY : LeetCode/Medium/Medium.i
+
+# target to preprocess a source file
+LeetCode/Medium/Medium.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Medium.dir/build.make CMakeFiles/Medium.dir/LeetCode/Medium/Medium.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Medium1620.dir/build.make CMakeFiles/Medium1620.dir/LeetCode/Medium/Medium.cpp.i
+.PHONY : LeetCode/Medium/Medium.cpp.i
+
+LeetCode/Medium/Medium.s: LeetCode/Medium/Medium.cpp.s
+.PHONY : LeetCode/Medium/Medium.s
+
+# target to generate assembly for a file
+LeetCode/Medium/Medium.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Medium.dir/build.make CMakeFiles/Medium.dir/LeetCode/Medium/Medium.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Medium1620.dir/build.make CMakeFiles/Medium1620.dir/LeetCode/Medium/Medium.cpp.s
+.PHONY : LeetCode/Medium/Medium.cpp.s
 
 LeetCode/Medium/Medium1620.o: LeetCode/Medium/Medium1620.cpp.o
 .PHONY : LeetCode/Medium/Medium1620.o
@@ -235,12 +315,20 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
+	@echo "... Easy"
 	@echo "... Easy1668"
+	@echo "... Medium"
 	@echo "... Medium1620"
 	@echo "... Weekgame"
+	@echo "... LeetCode/Easy/Easy.o"
+	@echo "... LeetCode/Easy/Easy.i"
+	@echo "... LeetCode/Easy/Easy.s"
 	@echo "... LeetCode/Easy/Easy1668.o"
 	@echo "... LeetCode/Easy/Easy1668.i"
 	@echo "... LeetCode/Easy/Easy1668.s"
+	@echo "... LeetCode/Medium/Medium.o"
+	@echo "... LeetCode/Medium/Medium.i"
+	@echo "... LeetCode/Medium/Medium.s"
 	@echo "... LeetCode/Medium/Medium1620.o"
 	@echo "... LeetCode/Medium/Medium1620.i"
 	@echo "... LeetCode/Medium/Medium1620.s"
